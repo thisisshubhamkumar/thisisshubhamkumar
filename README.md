@@ -24,7 +24,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 
 [learn C++] [C++ Programming]
 
-[learn Java] [ava Programming]
+[learn Java] [Java Programming]
 
 - 🌱 I’m currently making it come true 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -87,7 +87,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 [spyboy]: https://play.google.com/store/apps/details?id=info.shubham.pcassistant&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C++ Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cplusplusprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
-[ava Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+[Java Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
 
 
