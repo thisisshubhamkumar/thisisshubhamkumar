@@ -27,9 +27,9 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 [learn Java] [Java Programming]
 
 - 🌱 I’m currently making it come true 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators & Android Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
 
 ### Spotify Playing 🎧
 
