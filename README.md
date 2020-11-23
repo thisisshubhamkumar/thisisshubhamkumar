@@ -15,9 +15,9 @@ The only way to patch a vulnerability is by exposing it first.
 
 I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
-- 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
+#### - 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 
-### Download here !!
+##### Download here !!
 [learn ethical hacking] [spyboy]
 
 [learn C ] [C Programming]
