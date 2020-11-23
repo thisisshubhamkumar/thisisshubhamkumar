@@ -59,6 +59,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gadgets for hacker](https://spyboy.blog/2020/11/21/gadgets-for-hacker/)
+- [Use SSH Tunnels to Forward Requests & Hack Remote Routers](https://spyboy.blog/2020/11/15/use-ssh-tunnels-to-forward-requests-hack-remote-routers/)
+- [How Hackers Hack uTorrent Clients & Backdoor their system](https://spyboy.blog/2020/11/15/how-hackers-hack-utorrent-clients-backdoor-their-system/)
+- [Brute-Force Almost Any Website Login](https://spyboy.blog/2020/11/15/brute-force-almost-any-website-login/)
+- [Scan Web Applications for Common Vulnerabilities Using Metasploit’s WMAP](https://spyboy.blog/2020/11/15/scan-web-applications-for-common-vulnerabilities-using-metasploits-wmap/)
 <!-- BLOG-POST-LIST:END -->
 
 
