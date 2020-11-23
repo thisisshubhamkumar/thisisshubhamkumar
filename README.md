@@ -33,7 +33,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq)
 
 ### Connect with me:
 
