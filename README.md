@@ -96,7 +96,13 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 
 ---
 
-<img align="left" alt="thisisshubhamkumar GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thisisshubhamkumar&show_icons=true&hide_border=true" />
+<a href="https://spyboy.blog/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thisisshubhamkumar&show_icons=true&include_all_commits=true&theme=material-palenight" alt="thisisshubhamkumar github stats" />
+</a>
+<a href="https://spyboy.blog/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisisshubhamkumar&layout=compact&theme=material-palenight" />
+</a>
 
 
 [website]: https://spyboy.blog/
