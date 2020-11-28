@@ -1,8 +1,9 @@
 ### Hi there, I'm Shubham Kumar - aka [Spyboy][website] 👋
 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat&labelColor=blue&logo=wordpress&logoColor=white)](https://spyboy.blog/)
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
+[![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat&labelColor=blue&logo=wordpress&logoColor=white)](https://spyboy.blog/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itisshubhamkumar@gmail.com)
 &nbsp;
 
