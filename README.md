@@ -1,5 +1,9 @@
 ### Hi there, I'm Shubham Kumar - aka [Spyboy][website] 👋
 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itisshubhamkumar@gmail.com)
+&nbsp;
+
 [![Website](https://img.shields.io/website?label=spyboy.blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://spyboy.blog/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamkumar__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhamkumar__)
 
@@ -15,7 +19,10 @@ The only way to patch a vulnerability is by exposing it first.
 
 I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
+---
+
 #### - 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ##### Download here !!
 [learn ethical hacking] [spyboy]
@@ -26,8 +33,9 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 
 [learn Java] [Java Programming]
 
-- 🌱 I’m currently making it come true 🤖
-- 👯 I’m looking to collaborate with other content creators & Android Developers
+- 🌐 My Website: https://spyboy.blog/
+- 🤖 I’m currently making it come true 💻📲
+- 👀 I’m looking to collaborate with other content creators & Android Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
 
