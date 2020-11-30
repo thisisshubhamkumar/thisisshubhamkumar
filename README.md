@@ -98,11 +98,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn a Pen Drive into a USB Rubber Ducky](https://spyboy.blog/2020/11/30/turn-a-pen-drive-into-a-usb-rubber-ducky/)
 - [Make A WhatsApp Spammer](https://spyboy.blog/2020/11/27/make-a-whatsapp-spammer/)
 - [Gadgets for hacker](https://spyboy.blog/2020/11/21/gadgets-for-hacker/)
 - [Use SSH Tunnels to Forward Requests & Hack Remote Routers](https://spyboy.blog/2020/11/15/use-ssh-tunnels-to-forward-requests-hack-remote-routers/)
 - [How Hackers Hack uTorrent Clients & Backdoor their system](https://spyboy.blog/2020/11/15/how-hackers-hack-utorrent-clients-backdoor-their-system/)
-- [Brute-Force Almost Any Website Login](https://spyboy.blog/2020/11/15/brute-force-almost-any-website-login/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
