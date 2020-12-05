@@ -98,11 +98,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bot to fix Python indentation error](https://spyboy.blog/2020/12/05/6200/)
 - [Make a Persistent payload in Android Using Kali](https://spyboy.blog/2020/12/03/make-a-persistent-payload-in-android-using-kali/)
 - [Installing Selenium and ChromeDriver on Windows](https://spyboy.blog/2020/12/01/installing-selenium-and-chromedriver-on-windows/)
 - [Turn a Pen Drive into a USB Rubber Ducky](https://spyboy.blog/2020/11/30/turn-a-pen-drive-into-a-usb-rubber-ducky/)
 - [Make A WhatsApp Spammer](https://spyboy.blog/2020/11/27/make-a-whatsapp-spammer/)
-- [Gadgets for hacker](https://spyboy.blog/2020/11/21/gadgets-for-hacker/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
