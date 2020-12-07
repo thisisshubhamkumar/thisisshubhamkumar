@@ -98,11 +98,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an Undetectable Payload (Bypass Antivirus)](https://spyboy.blog/2020/12/07/create-an-undetectable-payload-bypass-antivirus/)
 - [How to use a Router as a Wireless Adapter](https://spyboy.blog/2020/12/05/how-to-use-a-router-as-a-wireless-adapter/)
 - [How to protect your server(website) from DDoS attacks](https://spyboy.blog/2020/12/05/how-to-protect-your-serverwebsite-from-ddos-attacks/)
 - [DDoS attack using SlowHTTPTest (Slowloris) in Kali Linux](https://spyboy.blog/2020/12/05/ddos-attack-using-slowhttptest-slowloris-in-kali-linux/)
 - [Hulk DDoS : Installation & Usage with Examples](https://spyboy.blog/2020/12/05/hulk-ddos-installation-usage-with-examples/)
-- [Kali Linux Hydra Tool Example](https://spyboy.blog/2020/12/05/kali-linux-hydra-tool-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
