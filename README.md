@@ -85,11 +85,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Run Kali Linux On Windows Terminal(WSL 2 GUI)](https://www.youtube.com/watch?v=G-gloEc-vLI)
 - [Bot to fix Python indentation error !!](https://www.youtube.com/watch?v=IsrCOfwZw1Q)
 - [Browser automation for WhatsApp Web with Python & Selenium.](https://www.youtube.com/watch?v=lrztYdJZnnA)
 - [How To Track Someone's Location Over Internet](https://www.youtube.com/watch?v=TzkL7PI9D8s)
 - [Hackers Can Use Your Email address Without Even Knowing Your Account Password: Email Spoofing](https://www.youtube.com/watch?v=pRWzbXfJQkE)
-- [How to Install Kali Linux on Virtual Box](https://www.youtube.com/watch?v=LwWlrbnLQIk)
 <!-- YOUTUBE:END -->
 
 
