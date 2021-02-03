@@ -98,11 +98,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram: Sites to Buy Followers](https://spyboy.blog/2021/02/04/instagram-sites-to-buy-followers/)
 - [RedRabbit : Pen-Testing & Post-Exploitation for Windows](https://spyboy.blog/2021/01/31/redrabbit-pen-testing-post-exploitation-for-windows/)
 - [Zydra : Crack Password-Protected ZIP Files, PDFs & More](https://spyboy.blog/2021/01/29/zydra-crack-password-protected-zip-files-pdfs-more/)
 - [Extend Context(right lick)-Menu in Windows](https://spyboy.blog/2021/01/26/extend-contextright-lick-menu-in-windows/)
 - [Iron Man Jarvis AI Desktop Voice Assistant | in Python](https://spyboy.blog/2021/01/12/iron-man-jarvis-ai-desktop-voice-assistant-in-python/)
-- [What is a Zero-Day Exploit?](https://spyboy.blog/2021/01/05/what-is-a-zero-day-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
