@@ -18,11 +18,10 @@ Crafting ideas into reality. what i love about app making is you can make your i
 
 I have a strong interest in technology, exploring code & programming. I'm a self-taught Developer & have created a few Android apps.
 
-Most fascinating thing about me is I am also a Pen-tester/ethical hacker. I love to define myself as self-proclaimed an Ethical hacker.
 Everyone & everything is vulnerable, and I just enjoy exposing those vulnerabilities.
 The only way to patch a vulnerability is by exposing it first.
 
-I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
+I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 million+ hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
 ---
 
