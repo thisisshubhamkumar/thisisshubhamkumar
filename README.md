@@ -97,11 +97,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking – Getting started](https://spyboy.blog/2021/10/19/hacking-getting-started/)
 - [Nmap – How to Use Nmap](https://spyboy.blog/2021/09/03/nmap-how-to-use-nmap/)
 - [Website copier – clone any website](https://spyboy.blog/2021/09/03/website-copier-clone-any-website/)
 - [Dnspeep – look what DNS Queries Your pc Is Making](https://spyboy.blog/2021/04/28/dnspeep-look-what-dns-queries-your-pc-is-making/)
 - [Use phone As Rubber Ducky Against Another phone](https://spyboy.blog/2021/04/28/use-phone-as-rubber-ducky-against-another-phone/)
-- [2021 – Best Ethical Hacking Tools & apps for Hackers](https://spyboy.blog/2021/04/28/2021-best-ethical-hacking-tools-apps-for-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
