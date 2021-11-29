@@ -33,8 +33,8 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 ---
 
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
+.. image:: https://discord.com/api/guilds/726495265330298973/embed.png
+   :target: https://discord.gg/ZChEmMwE8d
    :alt: Discord server invite
    
 [![Discord Server](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
