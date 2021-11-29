@@ -25,8 +25,10 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 ---
 
-[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
+[![join our ethical hacking Discord server](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
 ### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
+
+[![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)(https://top.gg/bot/877644741339144244)
 
 #### 🤖 Invite Our Bot Spyo [invte here](https://top.gg/bot/877644741339144244)
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
