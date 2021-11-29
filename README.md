@@ -33,6 +33,12 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 <iframe src="https://discord.com/widget?id=726495265330298973&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
+==========
+.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
+   :target: https://discord.gg/r3sSKJJ
+   :alt: Discord server invite
+--------------------------
+   
 [![Discord Server](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
 ### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
 
