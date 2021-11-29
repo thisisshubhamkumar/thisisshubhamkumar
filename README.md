@@ -43,9 +43,6 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq)
 
 ### Connect with me:
 
@@ -69,7 +66,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -124,7 +121,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 [linkedin]: https://www.linkedin.com/in/iamshubhamkumar/
 [facebook]: https://www.facebook.com/groups/Spyboyblog
 [MyApps]: https://play.google.com/store/apps/dev?id=6188034454598466210
-[spyboy]: https://play.google.com/store/apps/details?id=info.shubham.pcassistant&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+[spyboy]: https://play.google.com/store/apps/dev?id=6188034454598466210
 [C Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C++ Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cplusplusprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [Java Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
