@@ -24,11 +24,12 @@ The only way to patch a vulnerability is by exposing it first.
 I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 million+ hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
 ---
+
+### join our ethical hacking Discord server 
+[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u) [jojn here](https://discord.gg/ZChEmMwE8d)
+
 #### 🤖 Invite Our Bot Spyo [invte here](https://top.gg/bot/877644741339144244)
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
-
-### [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u) join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
-
 
 #### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
