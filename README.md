@@ -28,7 +28,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
 
 ### 💻 - join our ethical hacking Discord server
-join here > [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u) 
+join here | [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u) 
 
 #### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -128,8 +128,3 @@ join here > [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&
 [C Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C++ Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cplusplusprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [Java Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
-
-
-
-
-
