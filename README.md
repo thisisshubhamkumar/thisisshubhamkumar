@@ -31,6 +31,8 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
 
+<iframe src="https://discord.com/widget?id=726495265330298973&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 [![Discord Server](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
 ### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
 
