@@ -24,6 +24,10 @@ The only way to patch a vulnerability is by exposing it first.
 I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 million+ hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
 ---
+#### - 🤖 Invite Our Bot [spyo](https://top.gg/bot/877644741339144244)
+we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
+
+## - 💻 join our cybersecurity Discord server [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u) 
 
 #### - 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -38,9 +42,9 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 [learn Java] [Java Programming]
 
 - 🌐 My Website: https://spyboy.blog/
-- 🤖 I’m currently making it come true 💻📲
+- 🤖 I’m currently working on cybersec bot(spyo)
 - 👀 I’m looking to collaborate with other content creators & Android Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
 
 
@@ -62,11 +66,8 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -95,11 +96,11 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [H1deM3 – hide messages in messages](https://spyboy.blog/2021/11/29/h1dem3-hide-messages-in-messages/)
 - [Doxing](https://spyboy.blog/2021/10/21/doxing/)
 - [Hacking – Getting started](https://spyboy.blog/2021/10/19/hacking-getting-started/)
 - [Nmap – How to Use Nmap](https://spyboy.blog/2021/09/03/nmap-how-to-use-nmap/)
 - [Website copier – clone any website](https://spyboy.blog/2021/09/03/website-copier-clone-any-website/)
+- [Dnspeep – look what DNS Queries Your pc Is Making](https://spyboy.blog/2021/04/28/dnspeep-look-what-dns-queries-your-pc-is-making/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
