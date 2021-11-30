@@ -32,7 +32,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 #### 🤖 Invite Our Discord Bot Spyo [invte here](https://top.gg/bot/877644741339144244)
 
-[![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)
+![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)
 
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
 
