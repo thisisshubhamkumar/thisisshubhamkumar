@@ -25,7 +25,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 ---
 
-### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
+### join our ethical hacking Discord server [join here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 
 ---
