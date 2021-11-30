@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubham Kumar - aka [Spyboy][website] 👋
 
-[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
+[![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber)
@@ -25,22 +25,16 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 ---
 
+### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
+[![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
+
+---
+
 #### 🤖 Invite Our Discord Bot Spyo [invte here](https://top.gg/bot/877644741339144244)
 
 [![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)
 
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
-
----
-
-.. image:: https://discord.com/api/guilds/726495265330298973/embed.png
-   :target: https://discord.gg/ZChEmMwE8d
-   :alt: Discord server invite
-   
-[![Discord Server](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
-### join our ethical hacking Discord server [jojn here](https://discord.gg/ZChEmMwE8d)
-
----
 
 #### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -64,11 +58,12 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 ### Connect with me:
 
+[<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" />][Discord]
 [<img align="left" alt="spyboy.blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="spyboy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="spyboy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="spyboy | Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
 [<img align="left" alt="spyboy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="spyboy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="spyboy | Instagram" width="22px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-logo.png" />][instagram]
 
 <br />
 <br />
@@ -129,7 +124,7 @@ we designed this bot specifically for IT(Information technology) sector people ,
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisisshubhamkumar&layout=compact&theme=material-palenight" />
 </a>
 
-
+[Discord]: https://discord.gg/ZChEmMwE8d
 [website]: https://spyboy.blog/
 [twitter]: https://twitter.com/shubhamkumar__
 [youtube]: https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber
