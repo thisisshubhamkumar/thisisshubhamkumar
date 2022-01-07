@@ -105,11 +105,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Kali linux On Android without root](https://spyboy.blog/2022/01/08/use-kali-linux-on-android-without-root/)
 - [H1deM3 – hide messages in messages](https://spyboy.blog/2021/11/29/h1dem3-hide-messages-in-messages/)
 - [Doxing](https://spyboy.blog/2021/10/21/doxing/)
 - [Hacking – Getting started](https://spyboy.blog/2021/10/19/hacking-getting-started/)
 - [Nmap – How to Use Nmap](https://spyboy.blog/2021/09/03/nmap-how-to-use-nmap/)
-- [Website copier – clone any website](https://spyboy.blog/2021/09/03/website-copier-clone-any-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
