@@ -12,6 +12,8 @@
 [![Website](https://img.shields.io/website?label=spyboy.blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://spyboy.blog/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamkumar__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhamkumar__)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 #### I'm Founder & Developer of “Spyboy” app !!
 
 Crafting ideas into reality. what i love about app making is you can make your idea come true.
