@@ -98,11 +98,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Recover an Overwritten File on Mac](https://spyboy.blog/2022/02/15/recover-an-overwritten-file-on-mac/)
 - [Making Sure Your Cloud Solution Is Right for Your Business](https://spyboy.blog/2022/02/01/making-sure-your-cloud-solution-is-right-for-your-business/)
 - [Kali Linux: Reset Password](https://spyboy.blog/2022/01/21/kali-linux-reset-password/)
 - [Use Kali linux On Android without root](https://spyboy.blog/2022/01/08/use-kali-linux-on-android-without-root/)
 - [H1deM3 – hide messages in messages](https://spyboy.blog/2021/11/29/h1dem3-hide-messages-in-messages/)
-- [Doxing](https://spyboy.blog/2021/10/21/doxing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
