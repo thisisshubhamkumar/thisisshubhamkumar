@@ -98,11 +98,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Install required packages automatically for a python script](https://spyboy.blog/2022/02/18/install-required-packages-automatically-for-a-python-script/)
 - [Beef-XSS – Cloning websites](https://spyboy.blog/2022/02/17/beef-xss-cloning-websites/)
 - [Reverse shell over TOR network using hidden services – Poiana](https://spyboy.blog/2022/02/16/reverse-shell-over-tor-network-using-hidden-services-poiana/)
 - [Recover an Overwritten File on Mac](https://spyboy.blog/2022/02/15/recover-an-overwritten-file-on-mac/)
 - [Making Sure Your Cloud Solution Is Right for Your Business](https://spyboy.blog/2022/02/01/making-sure-your-cloud-solution-is-right-for-your-business/)
-- [Kali Linux: Reset Password](https://spyboy.blog/2022/01/21/kali-linux-reset-password/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
