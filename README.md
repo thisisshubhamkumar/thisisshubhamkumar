@@ -86,10 +86,10 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 <!-- YOUTUBE:START -->
 - [Run Kali Linux On Windows Terminal&lpar;WSL 2 GUI&rpar;](https://www.youtube.com/watch?v=G-gloEc-vLI)
-- [Bot to fix Python indentation error !!](https://www.youtube.com/watch?v=IsrCOfwZw1Q)
 - [Browser automation for WhatsApp Web with Python &amp; Selenium.](https://www.youtube.com/watch?v=lrztYdJZnnA)
 - [How To Track Someone&#39;s Location Over Internet](https://www.youtube.com/watch?v=TzkL7PI9D8s)
 - [How to Install Kali Linux on Virtual Box](https://www.youtube.com/watch?v=LwWlrbnLQIk)
+- [New Windows 10 Tips &amp; Tricks ! 2020](https://www.youtube.com/watch?v=Y-r83mPIg-c)
 <!-- YOUTUBE:END -->
 
 
