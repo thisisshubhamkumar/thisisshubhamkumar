@@ -95,11 +95,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Know if your emails has been opened or not !!](https://spyboy.blog/2022/04/24/know-if-your-emails-has-been-opened-or-not/)
 - [Read free without subscription](https://spyboy.blog/2022/03/14/read-free-without-subscription/)
 - [Proxychain](https://spyboy.blog/2022/03/04/proxychain/)
 - [Top 5 Mac mind mapping software to effortlessly organize your thoughts](https://spyboy.blog/2022/02/21/top-5-mac-mind-mapping-software-to-effortlessly-organize-your-thoughts/)
 - [Install required packages automatically for a python script](https://spyboy.blog/2022/02/18/install-required-packages-automatically-for-a-python-script/)
-- [Beef-XSS – Cloning websites](https://spyboy.blog/2022/02/17/beef-xss-cloning-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
