@@ -48,9 +48,10 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 [learn Java] [Java Programming]
 
-- 🌐 My Website: https://spyboy.blog/
-- 🤖 I’m currently working on cybersec bot(spyo)
-- 👀 I’m looking to collaborate with other content creators & Android Developers
+- 🌐 My Website: https://spyboy.in/
+- 🌐 My Blog: https://spyboy.blog/
+- 🤖 I’m currently working on cybersec bot,app,blog,tools...
+- 👀 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
 
