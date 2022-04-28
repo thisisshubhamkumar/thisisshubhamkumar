@@ -9,7 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:itisshubhamkumar@gmail.com)
 &nbsp;
 
-[![Website](https://img.shields.io/website?label=spyboy.blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://spyboy.blog/)
+[![Website](https://img.shields.io/badge/website-spyboy.in-<COLOR>)](https://spyboy.in/)
+[![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamkumar__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhamkumar__)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
