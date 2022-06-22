@@ -57,18 +57,6 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" />][Discord]
-[<img align="left" alt="spyboy.blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="spyboy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="spyboy | Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
-[<img align="left" alt="spyboy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="spyboy | Instagram" width="22px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-logo.png" />][instagram]
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
