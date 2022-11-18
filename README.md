@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Argument Injection – Vulnerabilities](https://spyboy.blog/2022/11/18/argument-injection-vulnerabilities/)
 - [Account Takeover Techniques](https://spyboy.blog/2022/11/06/account-takeover-techniques/)
 - [Web Sockets](https://spyboy.blog/2022/11/03/web-sockets/)
 - [Reverse Shell](https://spyboy.blog/2022/11/01/reverse-shell/)
 - [R4VEN – track user’s smartphone/pc ip And gps location.](https://spyboy.blog/2022/05/27/r4ven-track-users-smartphone-pc-ip-and-gps-location/)
-- [Know if your emails has been opened or not !!](https://spyboy.blog/2022/04/24/know-if-your-emails-has-been-opened-or-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
