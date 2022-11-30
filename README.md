@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker Search Engines](https://spyboy.blog/2022/11/30/hacker-search-engines/)
 - [GitHub user email addresses: how to find them](https://spyboy.blog/2022/11/27/github-user-email-addresses-how-to-find-them/)
 - [CTF help](https://spyboy.blog/2022/11/27/ctf-help/)
 - [CRLF Injection](https://spyboy.blog/2022/11/26/crlf-injection/)
 - [Argument Injection – Vulnerabilities](https://spyboy.blog/2022/11/18/argument-injection-vulnerabilities/)
-- [Account Takeover Techniques](https://spyboy.blog/2022/11/06/account-takeover-techniques/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
