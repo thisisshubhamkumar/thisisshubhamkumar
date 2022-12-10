@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 20 Cyber Security JOB interview Questions](https://spyboy.blog/2022/12/11/top-20-cyber-security-job-interview-questions/)
 - [Keylogger – log &amp; send them to an email](https://spyboy.blog/2022/12/07/keylogger-log-send-them-to-an-email/)
 - [CSRF Injection: Cross-Site Request Forgery](https://spyboy.blog/2022/12/06/csrf-injection-cross-site-request-forgery/)
 - [Hacker Search Engines](https://spyboy.blog/2022/11/30/hacker-search-engines/)
 - [GitHub user email addresses: how to find them](https://spyboy.blog/2022/11/27/github-user-email-addresses-how-to-find-them/)
-- [CTF help](https://spyboy.blog/2022/11/27/ctf-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
