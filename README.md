@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Methods of enumerating subdomains passively](https://spyboy.blog/2023/02/04/methods-of-enumerating-subdomains-passively/)
 - [A Guide to Becoming a Bug Bounty Hunter](https://spyboy.blog/2023/02/03/a-guide-to-becoming-a-bug-bounty-hunter/)
 - [Active Subdomain Enumeration](https://spyboy.blog/2023/02/02/active-subdomain-enumeration/)
 - [Dependency Confusion](https://spyboy.blog/2023/01/28/dependency-confusion/)
 - [DNS Rebinding](https://spyboy.blog/2023/01/28/dns-rebinding/)
-- [Command Injection](https://spyboy.blog/2023/01/28/command-injection/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
