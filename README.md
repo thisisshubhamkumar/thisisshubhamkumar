@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What hacker attacks are you most likely to encounter?](https://spyboy.blog/2023/02/09/what-hacker-attacks-are-you-most-likely-to-encounter/)
 - [Coding and Hacking: Understanding the Connection](https://spyboy.blog/2023/02/08/coding-and-hacking-understanding-the-connection/)
 - [How to use hacking in a good way?](https://spyboy.blog/2023/02/07/how-to-use-hacking-in-a-good-way/)
 - [Hacking skills: what are they?](https://spyboy.blog/2023/02/06/hacking-skills-what-are-they/)
 - [The Parts of a Domain Name: What Are They?](https://spyboy.blog/2023/02/05/the-parts-of-a-domain-name-what-are-they/)
-- [Methods of enumerating subdomains passively](https://spyboy.blog/2023/02/04/methods-of-enumerating-subdomains-passively/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
