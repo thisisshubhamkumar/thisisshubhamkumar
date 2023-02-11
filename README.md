@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there anybody hacking my phone?](https://spyboy.blog/2023/02/12/is-there-anybody-hacking-my-phone/)
 - [Can I hire a hacker to get my account back?](https://spyboy.blog/2023/02/11/can-i-hire-a-hacker-to-get-my-account-back/)
 - [Protecting Yourself Against Man-in-the-Middle Attacks](https://spyboy.blog/2023/02/10/protecting-yourself-against-man-in-the-middle-attacks/)
 - [What hacker attacks are you most likely to encounter?](https://spyboy.blog/2023/02/09/what-hacker-attacks-are-you-most-likely-to-encounter/)
 - [Coding and Hacking: Understanding the Connection](https://spyboy.blog/2023/02/08/coding-and-hacking-understanding-the-connection/)
-- [How to use hacking in a good way?](https://spyboy.blog/2023/02/07/how-to-use-hacking-in-a-good-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
