@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [File Inclusion](https://spyboy.blog/2023/02/17/file-inclusion/)
 - [Directory Traversal Attack: A Threat to Web Security](https://spyboy.blog/2023/02/16/directory-traversal-attack-a-threat-to-web-security/)
 - [Denial of Service &lpar;DoS&rpar; Attacks Types](https://spyboy.blog/2023/02/15/denial-of-service-dos-attacks-types/)
 - [How to install wireless network adapter Kali Linux and on android phones.](https://spyboy.blog/2023/02/14/how-to-install-wireless-network-adapter-kali-linux-and-on-android-phones/)
 - [The Art of Trapping Hackers: Honeypots](https://spyboy.blog/2023/02/13/the-art-of-trapping-hackers-understanding-honeypots/)
-- [Is there anybody hacking my phone?](https://spyboy.blog/2023/02/12/is-there-anybody-hacking-my-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
