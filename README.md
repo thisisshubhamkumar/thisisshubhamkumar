@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Insecure Direct Object References: A Potential Threat to Application Security](https://spyboy.blog/2023/05/28/understanding-insecure-direct-object-references-a-potential-threat-to-application-security/)
 - [Insecure Deserialization](https://spyboy.blog/2023/05/26/insecure-deserialization/)
 - [HTTP Parameter Pollution](https://spyboy.blog/2023/02/19/http-parameter-pollution/)
 - [GraphQL Injection: A Guide to Protecting Your Applications](https://spyboy.blog/2023/02/18/graphql-injection-a-guide-to-protecting-your-applications/)
 - [File Inclusion](https://spyboy.blog/2023/02/17/file-inclusion/)
-- [Directory Traversal Attack: A Threat to Web Security](https://spyboy.blog/2023/02/16/directory-traversal-attack-a-threat-to-web-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
