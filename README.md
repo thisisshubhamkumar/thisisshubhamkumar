@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install &amp; Use Ngrok](https://spyboy.blog/2023/07/28/how-to-install-use-ngrok/)
 - [Exploring Ngrok Alternatives: Securely Forwarding Ports Made Simple](https://spyboy.blog/2023/07/27/exploring-ngrok-alternatives-securely-forwarding-ports-made-simple/)
 - [Top 20 Ethical Hacking Tools &amp; Apps for Aspiring Hackers](https://spyboy.blog/2023/07/26/top-20-ethical-hacking-tools-apps-for-aspiring-hackers/)
 - [Introduction to API Security &lpar;APIsec&rpar; – A Brief Tutorial](https://spyboy.blog/2023/07/26/introduction-to-api-security-apisec-a-brief-tutorial/)
 - [A Comprehensive Guide: Navigating the World of CTFs](https://spyboy.blog/2023/07/22/a-comprehensive-guide-navigating-the-world-of-ctfs/)
-- [Java RMI: Understanding the Technology, Risks, and Best Practices](https://spyboy.blog/2023/06/02/java-rmi-understanding-the-technology-risks-and-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
