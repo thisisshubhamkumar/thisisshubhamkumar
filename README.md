@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham Kumar - aka [Spyboy][website] 👋
+### Hi there 👋
 
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
