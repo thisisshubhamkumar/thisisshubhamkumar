@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Omnisci3nt: Unveiling the Hidden Layers of the Web](https://spyboy.blog/2023/08/16/omnisci3nt-unveiling-the-hidden-layers-of-the-web/)
 - [Unve1ler: Revealing Digital Footprints and Visual Clues on the Internet](https://spyboy.blog/2023/08/16/unve1ler-revealing-digital-footprints-and-visual-clues-on-the-internet/)
 - [Are you wondering how to install Android Nearby Share on your Mac? The good news is that it’s possible!](https://spyboy.blog/2023/08/07/are-you-wondering-how-to-install-android-nearby-share-on-your-mac-the-good-news-is-that-its-possible/)
 - [Reconnaissance in Cyber Security: Unveiling the Digital Landscape](https://spyboy.blog/2023/07/30/reconnaissance-in-cyber-security-unveiling-the-digital-landscape/)
 - [Python code to reverse image search](https://spyboy.blog/2023/07/30/python-code-to-reverse-image-search/)
-- [Introduction to Digital Forensics: Unraveling the Secrets of the Digital World](https://spyboy.blog/2023/07/29/introduction-to-digital-forensics-unraveling-the-secrets-of-the-digital-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
