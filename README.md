@@ -13,8 +13,6 @@
 [![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamkumar__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhamkumar__)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 #### I'm Founder & Developer of [Spyboy](https://spyboy.in/) ..app,bot,blog,tool ? explore now !!
 
 Crafting ideas into reality.
