@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamkumar__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhamkumar__)
 
-#### I'm Founder & Developer of [Spyboy](https://spyboy.in/) ..app,bot,blog,tool ? explore now !!
+#### I'm Founder & Developer of [Spyboy](https://spyboy.in/) (app, bot, blog, cybersecurity tools)
 
 Crafting ideas into reality.
 
@@ -34,10 +34,10 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
 
-#### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
+### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-##### Download here !!
+### Download here !!
 [learn ethical hacking] [spyboy]
 
 [learn C ] [C Programming]
@@ -45,6 +45,20 @@ we designed this bot specifically for IT(Information technology) sector people ,
 [learn C++] [C++ Programming]
 
 [learn Java] [Java Programming]
+
+### Invite Discord cybersecurity bot !!
+
+- [Invite The Bot Here](https://top.gg/bot/877644741339144244)
+
+### Try our cybersecurity tools !!
+
+- [omnisci3nt - A Comprehensive Web Reconnaissance Tool](https://github.com/spyboy-productions/omnisci3nt)
+
+- [unve1ler - Revealing Digital Footprints and Visual Clues on the Internet](https://github.com/spyboy-productions/unve1ler)
+
+- [r4ven - Capture the target's IP address, GPS location, device picture, and information](https://github.com/spyboy-productions/r4ven)
+
+---
 
 - 🌐 My Website: https://spyboy.in/
 - 🌐 My Blog: https://spyboy.blog/
