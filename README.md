@@ -97,11 +97,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSecProbe: Web Security Assessment Tool](https://spyboy.blog/2023/09/14/websecprobe-web-security-assessment-tool/)
 - [Facad1ng: The Ultimate URL Masking Tool](https://spyboy.blog/2023/09/09/facad1ng-the-ultimate-url-masking-tool/)
 - [Port Forwarding With Terminal: A DIY Approach](https://spyboy.blog/2023/09/01/port-forwarding-with-terminal-a-diy-approach/)
 - [The Power of an IP Address: Unveiling the Risks and Protection](https://spyboy.blog/2023/08/27/the-power-of-an-ip-address-unveiling-the-risks-and-protection/)
 - [Achieving Online Anonymity: A Comprehensive Guide](https://spyboy.blog/2023/08/26/achieving-online-anonymity-a-comprehensive-guide/)
-- [Introduction to Malware Analysis: Tools and Techniques](https://spyboy.blog/2023/08/26/introduction-to-malware-analysis-tools-and-techniques/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
