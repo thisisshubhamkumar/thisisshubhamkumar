@@ -4,9 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iamshubhamkumar__/)
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=Facebook&logoColor=white)](https://www.facebook.com/groups/Spyboyblog)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://thisisshubhamkumar.github.io/)
-[![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:itisshubhamkumar@gmail.com)
 &nbsp;
 
 [![Website](https://img.shields.io/badge/website-spyboy.in-<COLOR>)](https://spyboy.in/)
@@ -66,18 +64,6 @@ we designed this bot specifically for IT(Information technology) sector people ,
 - 👀 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
-
----
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
 
 ---
 
