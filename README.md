@@ -83,11 +83,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Protect Your Organization from Ransomware Attacks: A Comprehensive Guide](https://spyboy.blog/2023/10/13/how-to-protect-your-organization-from-ransomware-attacks-a-comprehensive-guide/)
 - [How to properly do a TCP SYN flood attack](https://spyboy.blog/2023/10/12/how-to-properly-do-a-tcp-syn-flood-attack/)
 - [Defending Against TCP SYN Flood Attacks](https://spyboy.blog/2023/10/12/defending-against-tcp-syn-flood-attacks/)
 - [Understanding TCP SYN Flood Attacks: A Comprehensive Guide](https://spyboy.blog/2023/10/12/understanding-tcp-syn-flood-attacks-a-comprehensive-guide/)
 - [The Future of Cybersecurity in a World of AI and ML](https://spyboy.blog/2023/10/12/the-future-of-cybersecurity-in-a-world-of-ai-and-ml/)
-- [WebSecProbe: Web Security Assessment Tool](https://spyboy.blog/2023/09/14/websecprobe-web-security-assessment-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
