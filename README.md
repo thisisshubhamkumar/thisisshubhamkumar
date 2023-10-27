@@ -83,11 +83,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Your Website: Defending Against Symbolic Link Exploits](https://spyboy.blog/2023/10/27/securing-your-website-defending-against-symbolic-link-exploits/)
 - [Converting a Python Script to an Android App with Kivy and Buildozer](https://spyboy.blog/2023/10/26/converting-a-python-script-to-an-android-app-with-kivy-and-buildozer/)
 - [Easy and Common Vulnerabilities: A Beginner’s Guide to Bug Hunting](https://spyboy.blog/2023/10/25/easy-and-common-vulnerabilities-a-beginners-guide-to-bug-hunting/)
 - [Common Hacking Mistakes: What Every Aspiring Ethical Hacker Should Know](https://spyboy.blog/2023/10/23/common-hacking-mistakes-what-every-aspiring-ethical-hacker-should-know/)
 - [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar;: Detection, Prevention, and Mitigation](https://spyboy.blog/2023/10/22/understanding-cross-site-request-forgery-csrf-detection-prevention-and-mitigation/)
-- [Securing the Virtual Gateway: Cybersecurity for Remote Workers](https://spyboy.blog/2023/10/21/securing-the-virtual-gateway-cybersecurity-for-remote-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
