@@ -33,7 +33,6 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 mill
 we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
 
 ### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Download here !!
 [learn ethical hacking] [spyboy]
@@ -56,6 +55,10 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 - [r4ven - Capture the target's IP address, GPS location, device picture, and information](https://github.com/spyboy-productions/r4ven)
 
+- [Facad1ng - URL masking tool designed to help you Hide Phishing URLs and make them look legit using social engineering.](https://github.com/spyboy-productions/Facad1ng)
+
+- [WebSecProbe - Web Security Assessment Tool, Bypass 403](https://github.com/spyboy-productions/WebSecProbe)
+  
 ---
 
 - 🌐 My Website: https://spyboy.in/
