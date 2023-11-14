@@ -86,11 +86,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortifying the Digital Fortress: Navigating the Modern Landscape of Cybersecurity](https://spyboy.blog/2023/11/15/fortifying-the-digital-fortress-navigating-the-modern-landscape-of-cybersecurity/)
 - [Leveraging AI for Ethical Hacking: A Comprehensive Guide](https://spyboy.blog/2023/11/05/leveraging-ai-for-ethical-hacking-a-comprehensive-guide/)
 - [Hacking scams: How to protect yourself](https://spyboy.blog/2023/11/04/hacking-scams-how-to-protect-yourself/)
 - [Best AI for Hackers and Programmers: ChatGPT, Bard, Bing, and Perplexity Compared](https://spyboy.blog/2023/11/03/best-ai-for-hackers-and-programmers-chatgpt-bard-bing-and-perplexity-compared/)
 - [Unveiling Vulnerabilities with Shodan: Harnessing the Power of the Internet’s Digital Fingerprint](https://spyboy.blog/2023/11/02/unveiling-vulnerabilities-with-shodan-harnessing-the-power-of-the-internets-digital-fingerprint/)
-- [Securing Your Website: Defending Against Symbolic Link Exploits](https://spyboy.blog/2023/10/27/securing-your-website-defending-against-symbolic-link-exploits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
