@@ -86,11 +86,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Art of Penetration Testing: Unveiling Advanced Techniques for Web App Security](https://spyboy.blog/2023/12/01/mastering-the-art-of-penetration-testing-unveiling-advanced-techniques-for-web-app-security/)
 - [Demystifying Mobile Penetration Testing: Tools, Vulnerabilities, and Best Practices for Beginners](https://spyboy.blog/2023/11/30/demystifying-mobile-penetration-testing-tools-vulnerabilities-and-best-practices-for-beginners/)
 - [Unlocking Professionalism: Set Up FREE Email With Your Own Domain Name](https://spyboy.blog/2023/11/28/unlocking-professionalism-set-up-free-email-with-your-own-domain-name/)
 - [Unmasking the Stealth Threat of Open URL Redirection in Web Applications](https://spyboy.blog/2023/11/26/unmasking-the-stealth-threat-of-open-url-redirection-in-web-applications/)
 - [A Comprehensive Guide to Android Penetration Testing for Beginners](https://spyboy.blog/2023/11/25/a-comprehensive-guide-to-android-penetration-testing-for-beginners/)
-- [The Evolution of Digital Certificates: Paving the Way for a More Secure and Seamless Online World](https://spyboy.blog/2023/11/23/the-evolution-of-digital-certificates-paving-the-way-for-a-more-secure-and-seamless-online-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
