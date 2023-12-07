@@ -86,11 +86,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PhantomCrawler: boost website hits by multiple proxy IPs](https://spyboy.blog/2023/12/07/phantomcrawler-boost-website-hits-by-multiple-proxy-ips/)
 - [Unveiling the Secrets: Top 10 Tricks to Discover XSS Bugs in Web Apps](https://spyboy.blog/2023/12/03/unveiling-the-secrets-top-10-tricks-to-discover-xss-bugs-in-web-apps/)
 - [Mastering the Art of Penetration Testing: Unveiling Advanced Techniques for Web App Security](https://spyboy.blog/2023/12/01/mastering-the-art-of-penetration-testing-unveiling-advanced-techniques-for-web-app-security/)
 - [Demystifying Mobile Penetration Testing: Tools, Vulnerabilities, and Best Practices for Beginners](https://spyboy.blog/2023/11/30/demystifying-mobile-penetration-testing-tools-vulnerabilities-and-best-practices-for-beginners/)
 - [Unlocking Professionalism: Set Up FREE Email With Your Own Domain Name](https://spyboy.blog/2023/11/28/unlocking-professionalism-set-up-free-email-with-your-own-domain-name/)
-- [Unmasking the Stealth Threat of Open URL Redirection in Web Applications](https://spyboy.blog/2023/11/26/unmasking-the-stealth-threat-of-open-url-redirection-in-web-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
