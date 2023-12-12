@@ -86,11 +86,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CloakQuest3r: Uncover the true IP address of websites safeguarded by Cloudflare](https://spyboy.blog/2023/12/12/cloakquest3r-uncover-the-true-ip-address-of-websites-safeguarded-by-cloudflare/)
 - [Mastering the Art of Firewall Evasion: Techniques and Strategies Unveiled](https://spyboy.blog/2023/12/10/mastering-the-art-of-firewall-evasion-techniques-and-strategies-unveiled/)
 - [Valid8Proxy: fetch, validate, and store working proxies](https://spyboy.blog/2023/12/09/valid8proxy-fetch-validate-and-store-working-proxies/)
 - [PhantomCrawler: boost website hits by multiple proxy IPs](https://spyboy.blog/2023/12/07/phantomcrawler-boost-website-hits-by-multiple-proxy-ips/)
 - [Unveiling the Secrets: Top 10 Tricks to Discover XSS Bugs in Web Apps](https://spyboy.blog/2023/12/03/unveiling-the-secrets-top-10-tricks-to-discover-xss-bugs-in-web-apps/)
-- [Mastering the Art of Penetration Testing: Unveiling Advanced Techniques for Web App Security](https://spyboy.blog/2023/12/01/mastering-the-art-of-penetration-testing-unveiling-advanced-techniques-for-web-app-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
