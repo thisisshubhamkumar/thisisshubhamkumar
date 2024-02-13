@@ -84,11 +84,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Feature-Rich Discord Python Chat Bot with Gemini’s Free API](https://spyboy.blog/2024/02/13/creating-a-feature-rich-discord-python-chat-bot-with-geminis-free-api/)
 - [Exploiting a Windows Vulnerability to Circumvent Administrator Passwords: A Critical Security Concern](https://spyboy.blog/2024/01/07/exploiting-a-windows-vulnerability-to-circumvent-administrator-passwords-a-critical-security-concern/)
 - [How to bypass the Windows admin password and install any software without admin rights](https://spyboy.blog/2024/01/07/how-to-bypass-the-windows-admin-password-and-install-any-software-without-admin-rights/)
 - [Unmasking the Hidden IP Addresses Behind Cloudflare](https://spyboy.blog/2024/01/04/unmasking-the-hidden-ip-addresses-behind-cloudflare/)
 - [Anonymize Your Traffic With Proxychains &amp; Tor: A Comprehensive Guide](https://spyboy.blog/2024/01/02/anonymize-your-traffic-with-proxychains-tor-a-comprehensive-guide/)
-- [The Art of Deception: Transforming Executables into Images](https://spyboy.blog/2023/12/30/the-art-of-deception-transforming-executables-into-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
