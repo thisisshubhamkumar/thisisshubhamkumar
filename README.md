@@ -84,11 +84,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing Captive Portals: A Comprehensive Guide](https://spyboy.blog/2024/04/07/bypassing-captive-portals-a-comprehensive-guide/)
 - [The Hidden Risks Lurking in PyPI: Protecting Yourself from Malicious Packages](https://spyboy.blog/2024/04/04/the-hidden-risks-lurking-in-pypi-protecting-yourself-from-malicious-packages/)
 - [M474: One command can change MAC addresses and renew IP addresses.](https://spyboy.blog/2024/03/20/m474-one-command-can-change-mac-addresses-and-renew-ip-addresses/)
 - [Can AI be tricked? bypass the ChatGPT filter and use it for hacking.](https://spyboy.blog/2024/03/18/can-ai-be-tricked-bypass-the-chatgpt-filter-and-use-it-for-hacking/)
 - [Creating a Feature-Rich Discord Python Chat Bot with Gemini’s Free API](https://spyboy.blog/2024/02/13/creating-a-feature-rich-discord-python-chat-bot-with-geminis-free-api/)
-- [Exploiting a Windows Vulnerability to Circumvent Administrator Passwords: A Critical Security Concern](https://spyboy.blog/2024/01/07/exploiting-a-windows-vulnerability-to-circumvent-administrator-passwords-a-critical-security-concern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
