@@ -73,6 +73,7 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Free working proxies, validated and stored with Valid8Proxy](https://www.youtube.com/watch?v=FWFFAbgC8Bo)
 - [Run Kali Linux On Windows Terminal&lpar;WSL 2 GUI&rpar;](https://www.youtube.com/watch?v=G-gloEc-vLI)
 - [How to Install Kali Linux on Virtual Box](https://www.youtube.com/watch?v=LwWlrbnLQIk)
 - [How To Create An Android app With Android Studio](https://www.youtube.com/watch?v=xiXVBtBFnqQ)
