@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Fun and Mischievous PC Virus for Pranking Friends](https://spyboy.blog/2024/05/11/10-fun-and-mischievous-pc-virus-for-pranking-friends/)
 - [Mastering OSINT: Techniques for Gathering Intelligence from Open Sources](https://spyboy.blog/2024/05/10/mastering-osint-techniques-for-gathering-intelligence-from-open-sources/)
 - [Why Biometric Security on Your Mobile Device Might Be Riskier Than You Think](https://spyboy.blog/2024/04/17/why-biometric-security-on-your-mobile-device-might-be-riskier-than-you-think/)
 - [Bypassing Captive Portals: A Comprehensive Guide](https://spyboy.blog/2024/04/07/bypassing-captive-portals-a-comprehensive-guide/)
 - [The Hidden Risks Lurking in PyPI: Protecting Yourself from Malicious Packages](https://spyboy.blog/2024/04/04/the-hidden-risks-lurking-in-pypi-protecting-yourself-from-malicious-packages/)
-- [M474: One command can change MAC addresses and renew IP addresses.](https://spyboy.blog/2024/03/20/m474-one-command-can-change-mac-addresses-and-renew-ip-addresses/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
