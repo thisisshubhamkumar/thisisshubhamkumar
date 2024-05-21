@@ -85,11 +85,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Potential Risks: A Comprehensive Guide to OSINT for Threat Intelligence](https://spyboy.blog/2024/05/21/discovering-potential-risks-a-comprehensive-guide-to-osint-for-threat-intelligence/)
 - [Unveiling Footprints: A Comprehensive Guide to Footprinting in Penetration Testing](https://spyboy.blog/2024/05/18/unveiling-footprints-a-comprehensive-guide-to-footprinting-in-penetration-testing/)
 - [A Deep Dive into Social Media Intelligence &lpar;SOCMINT&rpar;: Leveraging Social Networks for Investigation](https://spyboy.blog/2024/05/16/a-deep-dive-into-social-media-intelligence-socmint-leveraging-social-networks-for-investigation/)
 - [Mastering the Art of Digital Reconnaissance: Ethical Strategies for Information Gathering](https://spyboy.blog/2024/05/14/mastering-the-art-of-digital-reconnaissance-ethical-strategies-for-information-gathering/)
 - [Unveiling the Invisible Threat: Navigating the World of Zero-Click Attacks](https://spyboy.blog/2024/05/13/unveiling-the-invisible-threat-navigating-the-world-of-zero-click-attacks/)
-- [Safeguarding Your Digital Footprint: A Comprehensive Guide to Online Privacy and Security](https://spyboy.blog/2024/05/12/safeguarding-your-digital-footprint-a-comprehensive-guide-to-online-privacy-and-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
