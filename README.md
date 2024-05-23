@@ -15,10 +15,6 @@
 
 Crafting ideas into reality.
 
-I have a strong interest in technology, exploring code & programming. I'm a self-taught Developer & have created a few Android apps.
-
-I also blog on Ethical hacking (www.spyboy.blog). Our blog has more than 10 million+ hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Updates.
-
 ---
 
 ### join our ethical hacking Discord server [join here](https://discord.gg/ZChEmMwE8d)
@@ -108,11 +104,7 @@ we designed this bot specifically for IT(Information technology) sector people ,
 [website]: https://spyboy.blog/
 [twitter]: https://twitter.com/shubhamkumar__
 [youtube]: https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber
-[instagram]: https://www.instagram.com/iamshubhamkumar__/
-[linkedin]: https://www.linkedin.com/in/iamshubhamkumar/
-[facebook]: https://www.facebook.com/groups/Spyboyblog
 [MyApps]: https://play.google.com/store/apps/dev?id=6188034454598466210
-[spyboy]: https://play.google.com/store/apps/dev?id=6188034454598466210
 [C Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C++ Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cplusplusprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [Java Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
