@@ -81,11 +81,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Cool Windows Registry &lpar;.reg&rpar; Tricks to Modify Windows](https://spyboy.blog/2024/05/30/top-10-cool-windows-registry-reg-tricks-to-modify-windows/)
 - [Top 10 Fun Registry Editor &lpar;.reg&rpar; Pranks PC VIRUS](https://spyboy.blog/2024/05/28/top-10-fun-registry-editor-reg-pranks-pc-virus/)
 - [Top 10 Fun VBScript PC Virus Pranks to Pull on Your Friends](https://spyboy.blog/2024/05/25/top-10-fun-vbscript-pc-virus-pranks-to-pull-on-your-friends/)
 - [Navigating Open Source Intelligence &lpar;OSINT&rpar;: Balancing Information Gathering and Privacy Rights](https://spyboy.blog/2024/05/23/navigating-open-source-intelligence-osint-balancing-information-gathering-and-privacy-rights/)
 - [Discovering Potential Risks: A Comprehensive Guide to OSINT for Threat Intelligence](https://spyboy.blog/2024/05/21/discovering-potential-risks-a-comprehensive-guide-to-osint-for-threat-intelligence/)
-- [Unveiling Footprints: A Comprehensive Guide to Footprinting in Penetration Testing](https://spyboy.blog/2024/05/18/unveiling-footprints-a-comprehensive-guide-to-footprinting-in-penetration-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
