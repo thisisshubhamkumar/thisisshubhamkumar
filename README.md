@@ -81,11 +81,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating  Custom Element for CORS Bypass | Practical Guide](https://spyboy.blog/2024/07/21/creating-custom-element-for-cors-bypass-practical-guide/)
 - [Tracking Digital Footprint: Image, Phone, Email, Username Search](https://spyboy.blog/2024/07/16/tracking-digital-footprint-image-phone-email-username-search/)
 - [How to Check if Your SIM Card is Registered in Your Name: A Comprehensive Guide](https://spyboy.blog/2024/07/14/how-to-check-if-your-sim-card-is-registered-in-your-name-a-comprehensive-guide/)
 - [Cybercrime Prevention: Safeguarding Aadhaar for Secure Transactions](https://spyboy.blog/2024/07/12/cybercrime-prevention-safeguarding-aadhaar-for-secure-transactions/)
 - [Elevate Your Windows Startup Experience with Custom .BAT and .VBS Scripts](https://spyboy.blog/2024/06/03/elevate-your-windows-startup-experience-with-custom-bat-and-vbs-scripts/)
-- [Top 10 Useful VBScripts to Enhance Windows Experience](https://spyboy.blog/2024/06/01/top-10-useful-vbscripts-to-enhance-windows-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
