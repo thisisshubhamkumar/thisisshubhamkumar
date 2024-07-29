@@ -69,6 +69,7 @@ we designed this bot specifically for IT(Information technology) sector people ,
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [R4ven - Track Someone&#39;s Location Over The Internet](https://www.youtube.com/watch?v=6eV3FAXSUSU)
 - [Free working proxies, validated and stored with Valid8Proxy](https://www.youtube.com/watch?v=FWFFAbgC8Bo)
 - [Run Kali Linux On Windows Terminal&lpar;WSL 2 GUI&rpar;](https://www.youtube.com/watch?v=G-gloEc-vLI)
 - [How to Install Kali Linux on Virtual Box](https://www.youtube.com/watch?v=LwWlrbnLQIk)
