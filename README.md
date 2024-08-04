@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itisspyboy/)
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
 [![Website](https://img.shields.io/badge/website-spyboy.in-<COLOR>)](https://spyboy.in/)
 [![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
