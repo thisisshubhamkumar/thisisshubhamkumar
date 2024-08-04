@@ -3,17 +3,12 @@
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itisspyboy/)
 [![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
-
 [![Website](https://img.shields.io/badge/website-spyboy.in-<COLOR>)](https://spyboy.in/)
 [![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
 
-#### I'm Founder & Developer of [Spyboy](https://spyboy.in/) (app, bot, blog, cybersecurity tools)
-
-Crafting ideas into reality.
-
 ---
 
-### join our cybersecurity Discord server [join here](https://discord.gg/ZChEmMwE8d)
+#### join our cybersecurity Discord server [join here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
 
 ---
@@ -22,7 +17,7 @@ Crafting ideas into reality.
 
 ![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)
 
-we designed this bot specifically for IT(Information technology) sector people , those who come from Cybersecurity, InfoSec and tech field (geeks & nerds). we are trying to add useful OSINT tools-commands that can help people in so many ways. bot also runs discord based CTF hacking challenge.
+We designed this bot specifically for people in the IT (Information Technology) sector, including those in cybersecurity, infosec, and other tech fields (geeks & nerds). We aim to incorporate useful OSINT tools and commands that can assist people in various ways. The bot also hosts a Discord-based CTF hacking challenge.
 
 ### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
 
@@ -41,11 +36,11 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 ### Try our cybersecurity tools !!
 
+- [r4ven - Capture the target's IP address, GPS location, device picture, and information](https://github.com/spyboy-productions/r4ven)
+
 - [omnisci3nt - A Comprehensive Web Reconnaissance Tool](https://github.com/spyboy-productions/omnisci3nt)
 
 - [unve1ler - Revealing Digital Footprints and Visual Clues on the Internet](https://github.com/spyboy-productions/unve1ler)
-
-- [r4ven - Capture the target's IP address, GPS location, device picture, and information](https://github.com/spyboy-productions/r4ven)
 
 - [Facad1ng - URL masking tool designed to help you Hide Phishing URLs and make them look legit using social engineering.](https://github.com/spyboy-productions/Facad1ng)
 
@@ -55,10 +50,8 @@ we designed this bot specifically for IT(Information technology) sector people ,
 
 - 🌐 My Website: https://spyboy.in/
 - 🌐 My Blog: https://spyboy.blog/
-- 🤖 I’m currently working on cybersec bot,app,blog,tools...
-- 👀 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Crows can hold grudges against specific individual people 🐧 🤫 😏 
+- 🤖 I’m currently working on ...
+- 👀 I’m looking for an android developer, reach me on discord.
 
 ---
 
