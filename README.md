@@ -68,11 +68,11 @@ We designed this bot specifically for people in the IT (Information Technology) 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Can Hack Your Account Without Email, Password, or 2FA: Here’s How](https://spyboy.blog/2024/09/17/hackers-can-hack-your-account-without-email-password-or-2fa-heres-how/)
 - [Permanently Deleting Data: How to Ensure It’s Gone for Good](https://spyboy.blog/2024/09/14/permanently-deleting-data-how-to-ensure-its-gone-for-good/)
 - [What to Do When You Get Attacked by Ransomware: Everything You Need to Know](https://spyboy.blog/2024/09/12/what-to-do-when-you-get-attacked-by-ransomware-everything-you-need-to-know/)
 - [How to Create a Personalized Startup Greeting for Your PC](https://spyboy.blog/2024/08/30/how-to-create-a-personalized-startup-greeting-for-your-pc/)
 - [Resolve System Errors like ‘Too Many Open Files’ and ‘RuntimeError: can’t start new thread’ with ulimit Command](https://spyboy.blog/2024/08/28/resolve-system-errors-like-too-many-open-files-and-runtimeerror-cant-start-new-thread-with-ulimit-command/)
-- [The Beginner’s Guide to Bug Bounty Hunting: Finding and Reporting Easy Bugs](https://spyboy.blog/2024/08/27/the-beginners-guide-to-bug-bounty-hunting-finding-and-reporting-easy-bugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
