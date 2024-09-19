@@ -68,11 +68,11 @@ We designed this bot specifically for people in the IT (Information Technology) 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IDOR Vulnerabilities: Finding, Exploiting, and Securing](https://spyboy.blog/2024/09/19/idor-vulnerabilities-finding-exploiting-and-securing/)
 - [Understanding VM Escape: Risks and Precautions](https://spyboy.blog/2024/09/17/understanding-vm-escape-risks-and-precautions/)
 - [Hackers Can Hack Your Account Without Email, Password, or 2FA: Here’s How](https://spyboy.blog/2024/09/17/hackers-can-hack-your-account-without-email-password-or-2fa-heres-how/)
 - [Permanently Deleting Data: How to Ensure It’s Gone for Good](https://spyboy.blog/2024/09/14/permanently-deleting-data-how-to-ensure-its-gone-for-good/)
 - [What to Do When You Get Attacked by Ransomware: Everything You Need to Know](https://spyboy.blog/2024/09/12/what-to-do-when-you-get-attacked-by-ransomware-everything-you-need-to-know/)
-- [How to Create a Personalized Startup Greeting for Your PC](https://spyboy.blog/2024/08/30/how-to-create-a-personalized-startup-greeting-for-your-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
