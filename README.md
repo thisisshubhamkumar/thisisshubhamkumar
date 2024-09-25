@@ -68,11 +68,11 @@ We designed this bot specifically for people in the IT (Information Technology) 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Open Redirect Vulnerabilities in Web Applications](https://spyboy.blog/2024/09/25/understanding-open-redirect-vulnerabilities-in-web-applications/)
 - [Understanding and Preventing JavaScript Prototype Pollution](https://spyboy.blog/2024/09/23/understanding-and-preventing-javascript-prototype-pollution/)
 - [Why Privacy Matters: The Flawed Argument of “Nothing to Hide, Nothing to Fear”](https://spyboy.blog/2024/09/22/why-privacy-matters-the-flawed-argument-of-nothing-to-hide-nothing-to-fear/)
 - [Guide to Web Cache Poisoning Exploitation](https://spyboy.blog/2024/09/21/guide-to-web-cache-poisoning-exploitation/)
 - [IDOR Vulnerabilities: Finding, Exploiting, and Securing](https://spyboy.blog/2024/09/19/idor-vulnerabilities-finding-exploiting-and-securing/)
-- [Understanding VM Escape: Risks and Precautions](https://spyboy.blog/2024/09/17/understanding-vm-escape-risks-and-precautions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
