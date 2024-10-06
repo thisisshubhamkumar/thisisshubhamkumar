@@ -15,7 +15,7 @@
 
 ![Discord Bots](https://top.gg/api/widget/877644741339144244.svg)
 
-We designed this bot specifically for people in the IT (Information Technology) sector, including those in cybersecurity, infosec, and other tech fields (geeks & nerds). We aim to incorporate useful OSINT tools and commands that can assist people in various ways. The bot also hosts a Discord-based CTF hacking challenge.
+The bot comes with OSINT tools and commands that can assist people in various ways. It also hosts a Discord-based CTF hacking challenge.
 
 ### 🔭 My Apps On Google Play Store: [Apps][MyApps]!
 
