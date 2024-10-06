@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: spyboy/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://spyboy.blog/feed/"
