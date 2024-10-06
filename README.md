@@ -17,7 +17,7 @@
 
 We designed this bot specifically for people in the IT (Information Technology) sector, including those in cybersecurity, infosec, and other tech fields (geeks & nerds). We aim to incorporate useful OSINT tools and commands that can assist people in various ways. The bot also hosts a Discord-based CTF hacking challenge.
 
-### 🔭 My Apps On Google Play Store: [Explore ethical hacking!][MyApps]!
+### 🔭 My Apps On Google Play Store: [Apps][MyApps]!
 
 ### Download here !!
 [learn ethical hacking] [spyboy]
