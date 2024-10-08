@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Hack Android Apps: Techniques Explained](https://spyboy.blog/2024/10/08/how-to-hack-android-apps-techniques-explained/)
 - [Stop Sharing Everything on Social Media: Why It’s Not OK](https://spyboy.blog/2024/09/29/stop-sharing-everything-on-social-media-why-its-not-ok/)
 - [Subdomain Takeover: What It Is, How to Exploit It, and How to Prevent It](https://spyboy.blog/2024/09/27/subdomain-takeover-what-it-is-how-to-exploit-it-and-how-to-prevent-it/)
 - [Understanding Open Redirect Vulnerabilities in Web Applications](https://spyboy.blog/2024/09/25/understanding-open-redirect-vulnerabilities-in-web-applications/)
 - [Understanding and Preventing JavaScript Prototype Pollution](https://spyboy.blog/2024/09/23/understanding-and-preventing-javascript-prototype-pollution/)
-- [Why Privacy Matters: The Flawed Argument of “Nothing to Hide, Nothing to Fear”](https://spyboy.blog/2024/09/22/why-privacy-matters-the-flawed-argument-of-nothing-to-hide-nothing-to-fear/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
