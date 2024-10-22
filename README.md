@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Identifying Fake App Stores &amp; Fake Apps: How Hackers Use Your Trust against You to Hack Your Phone](https://spyboy.blog/2024/10/21/identifying-fake-app-stores-fake-apps-how-hackers-use-your-trust-against-you-to-hack-your-phone/)
 - [How Your Google Reviews May Compromise Your Safety](https://spyboy.blog/2024/10/21/how-your-google-reviews-may-compromise-your-safety/)
 - [Crypto in Digital Advertising: Enhancing Transparency and Trust in Ad Tech](https://spyboy.blog/2024/10/18/crypto-in-digital-advertising-enhancing-transparency-and-trust-in-ad-tech/)
 - [How SS7 Threatens Your Mobile Privacy: Flaw in Our Phone System](https://spyboy.blog/2024/10/10/how-ss7-threatens-your-mobile-privacy-flaw-in-our-phone-system/)
 - [How to Hack Android Apps: Techniques Explained](https://spyboy.blog/2024/10/08/how-to-hack-android-apps-techniques-explained/)
+- [Stop Sharing Everything on Social Media: Why It’s Not OK](https://spyboy.blog/2024/09/29/stop-sharing-everything-on-social-media-why-its-not-ok/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
