@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steps to Take After a Data Breach](https://spyboy.blog/2024/11/19/steps-to-take-after-a-data-breach/)
 - [How to Use Python and Tor to Rotate IP Addresses Every Minute for Enhanced Anonymity](https://spyboy.blog/2024/11/17/how-to-use-python-and-tor-to-rotate-ip-addresses-every-minute-for-enhanced-anonymity/)
 - [The Dangers of Downloading Pirated Apps and Games](https://spyboy.blog/2024/11/15/the-dangers-of-downloading-pirated-apps-and-games/)
 - [The Ethics of Piracy: A Consumer Perspective](https://spyboy.blog/2024/11/08/the-ethics-of-piracy-a-consumer-perspective/)
 - [The Easiest Bug Bounty Web Vulnerability to Learn, Find, and Report](https://spyboy.blog/2024/11/06/the-easiest-bug-bounty-web-vulnerability-to-learn-find-and-report/)
-- [Is Your Advertising ID a Privacy Risk? The Hidden Dangers of Mobile Ad Tracking](https://spyboy.blog/2024/10/25/is-your-advertising-id-a-privacy-risk-the-hidden-dangers-of-mobile-ad-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
