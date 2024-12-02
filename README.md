@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Hacking Tools of 2024 for Cybersecurity Pros](https://spyboy.blog/2024/12/02/top-hacking-tools-of-2024-for-cybersecurity-pros/)
 - [How to Legally and Safely Access Data Breach Information in Clear Text](https://spyboy.blog/2024/11/30/how-to-legally-and-safely-access-data-breach-information-in-clear-text/)
 - [Unfair Pricing Tactics Targeting iPhone Users](https://spyboy.blog/2024/11/24/unfair-pricing-tactics-targeting-iphone-users/)
 - [Browser Extensions: A Double-Edged Sword for Productivity and Privacy](https://spyboy.blog/2024/11/22/browser-extensions-a-double-edged-sword-for-productivity-and-privacy/)
 - [Apps Like Uber, Ola Charge You More Based on Your Battery Percentage?](https://spyboy.blog/2024/11/20/apps-like-uber-ola-charge-you-more-based-on-your-battery-percentage/)
-- [Steps to Take After a Data Breach](https://spyboy.blog/2024/11/19/steps-to-take-after-a-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
