@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Think Twice Before Adding Browser Extensions: A Big Privacy Risk](https://spyboy.blog/2025/01/09/why-you-should-think-twice-before-adding-browser-extensions-a-big-privacy-risk/)
 - [Comparing CMD, PowerShell, and Windows Terminal](https://spyboy.blog/2025/01/04/comparing-cmd-powershell-and-windows-terminal/)
 - [Microsoft Activation Scripts Uncovered: Pros, Cons, and FAQs](https://spyboy.blog/2024/12/31/microsoft-activation-scripts-uncovered-pros-cons-and-faqs/)
 - [Enabling Hyper-V on Windows 11 Home: Everything You Need to Know](https://spyboy.blog/2024/12/30/enabling-hyper-v-on-windows-11-home-everything-you-need-to-know/)
 - [How to Publish an App on Microsoft Store: A Step-by-Step Guide](https://spyboy.blog/2024/12/22/how-to-publish-an-app-on-microsoft-store-a-step-by-step-guide/)
-- [Unlocking Hidden Source Code: A Developer’s Guide](https://spyboy.blog/2024/12/14/unlocking-hidden-source-code-a-developers-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
