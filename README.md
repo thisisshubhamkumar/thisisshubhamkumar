@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Growing Threat of Session ID Theft: Why It’s More Efficient Than Phishing](https://spyboy.blog/2025/01/20/the-growing-threat-of-session-id-theft-why-its-more-efficient-than-phishing/)
 - [How to Identify a Hacked Mobile or PC](https://spyboy.blog/2025/01/19/how-to-identify-a-hacked-mobile-or-pc/)
 - [How Hackers Break into Somebody’s Computer Without a Password: An Extensive Guide](https://spyboy.blog/2025/01/17/how-hackers-break-into-somebodys-computer-without-a-password-an-extensive-guide/)
 - [Top 20 Most Dangerous Computer Viruses of All Time](https://spyboy.blog/2025/01/15/top-20-most-dangerous-computer-viruses-of-all-time/)
 - [How to Remove Write Protection on USB Drives and SD Cards](https://spyboy.blog/2025/01/15/how-to-remove-write-protection-on-usb-drives-and-sd-cards/)
-- [Boost Windows 11 Performance with Registry Hacks](https://spyboy.blog/2025/01/13/boost-windows-11-performance-with-registry-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
