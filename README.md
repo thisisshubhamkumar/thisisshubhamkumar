@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cryptography and Wireless Networks](https://spyboy.blog/2025/01/23/understanding-cryptography-and-wireless-networks/)
 - [Top 30 Penetration Testing Interview Questions](https://spyboy.blog/2025/01/23/top-30-penetration-testing-interview-questions/)
 - [Evil Twin Attack: How Hackers Exploit Wi-Fi Networks](https://spyboy.blog/2025/01/21/evil-twin-attack-how-hackers-exploit-wi-fi-networks/)
 - [The Growing Threat of Session ID Theft: Why It’s More Efficient Than Phishing](https://spyboy.blog/2025/01/20/the-growing-threat-of-session-id-theft-why-its-more-efficient-than-phishing/)
 - [How to Identify a Hacked Mobile or PC](https://spyboy.blog/2025/01/19/how-to-identify-a-hacked-mobile-or-pc/)
-- [How Hackers Break into Somebody’s Computer Without a Password: An Extensive Guide](https://spyboy.blog/2025/01/17/how-hackers-break-into-somebodys-computer-without-a-password-an-extensive-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
