@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing File Upload Restrictions: A Deep Dive into Security and Exploitation](https://spyboy.blog/2025/02/02/bypassing-file-upload-restrictions-a-deep-dive-into-security-and-exploitation/)
 - [Top 5 Open-Source Tools for Geolocation Tracking and Phishing Simulations](https://spyboy.blog/2025/01/31/top-5-open-source-tools-for-geolocation-tracking-and-phishing-simulations/)
 - [Cybersecurity Regulations: Protecting Data &amp; Trust](https://spyboy.blog/2025/01/29/cybersecurity-regulations-protecting-data-trust/)
 - [Understanding Phishing: Techniques and Prevention](https://spyboy.blog/2025/01/27/understanding-phishing-techniques-and-prevention/)
 - [Understanding Zero Trust Security Model](https://spyboy.blog/2025/01/25/understanding-zero-trust-security-model/)
-- [Understanding Cryptography and Wireless Networks](https://spyboy.blog/2025/01/23/understanding-cryptography-and-wireless-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
