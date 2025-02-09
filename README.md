@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Overlooked Reconnaissance Techniques for Bug Bounty Hunters](https://spyboy.blog/2025/02/09/overlooked-reconnaissance-techniques-for-bug-bounty-hunters/)
 - [Complete Guide to Exploiting Blind XSS Vulnerabilities](https://spyboy.blog/2025/02/07/complete-guide-to-exploiting-blind-xss-vulnerabilities/)
 - [Advanced Techniques to Bypass Insecure Two-Factor Authentication &lpar;2FA](https://spyboy.blog/2025/02/05/advanced-techniques-to-bypass-insecure-two-factor-authentication-2fa/)
 - [Unlocking Hidden Information from Archived JavaScript Files](https://spyboy.blog/2025/02/03/unlocking-hidden-information-from-archived-javascript-files/)
 - [Bypassing File Upload Restrictions: A Deep Dive into Security and Exploitation](https://spyboy.blog/2025/02/02/bypassing-file-upload-restrictions-a-deep-dive-into-security-and-exploitation/)
-- [Top 5 Open-Source Tools for Geolocation Tracking and Phishing Simulations](https://spyboy.blog/2025/01/31/top-5-open-source-tools-for-geolocation-tracking-and-phishing-simulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
