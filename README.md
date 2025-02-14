@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing UAC with runasinvoker – A Simple Trick for Running Programs Without Admin Prompt](https://spyboy.blog/2025/02/15/bypassing-uac-with-runasinvoker-a-simple-trick-for-running-programs-without-admin-prompt/)
 - [Browser Freezing Attacks Using JavaScript](https://spyboy.blog/2025/02/13/browser-freezing-attacks-using-javascript/)
 - [State-Sponsored Cyber Attacks: The Silent Battlefield of the Digital Age](https://spyboy.blog/2025/02/11/state-sponsored-cyber-attacks-the-silent-battlefield-of-the-digital-age/)
 - [What Can Hackers Do With Your IP Address? Tips to Stay Protected](https://spyboy.blog/2025/02/11/what-can-hackers-do-with-your-ip-address-tips-to-stay-protected/)
 - [Overlooked Reconnaissance Techniques for Bug Bounty Hunters](https://spyboy.blog/2025/02/09/overlooked-reconnaissance-techniques-for-bug-bounty-hunters/)
-- [Complete Guide to Exploiting Blind XSS Vulnerabilities](https://spyboy.blog/2025/02/07/complete-guide-to-exploiting-blind-xss-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
