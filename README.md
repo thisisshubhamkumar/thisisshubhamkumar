@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Windows Screensaver from a Python Script](https://spyboy.blog/2025/02/19/how-to-create-a-windows-screensaver-from-a-python-script/)
 - [Boost Your Windows Skills: Must-Know CMD Commands](https://spyboy.blog/2025/02/18/boost-your-windows-skills-must-know-cmd-commands/)
 - [Bypassing UAC with runasinvoker – A Simple Trick for Running Programs Without Admin Prompt](https://spyboy.blog/2025/02/15/bypassing-uac-with-runasinvoker-a-simple-trick-for-running-programs-without-admin-prompt/)
 - [Browser Freezing Attacks Using JavaScript](https://spyboy.blog/2025/02/13/browser-freezing-attacks-using-javascript/)
 - [State-Sponsored Cyber Attacks: The Silent Battlefield of the Digital Age](https://spyboy.blog/2025/02/11/state-sponsored-cyber-attacks-the-silent-battlefield-of-the-digital-age/)
-- [What Can Hackers Do With Your IP Address? Tips to Stay Protected](https://spyboy.blog/2025/02/11/what-can-hackers-do-with-your-ip-address-tips-to-stay-protected/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
