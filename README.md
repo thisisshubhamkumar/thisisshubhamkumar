@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Dangers of Free VPNs: Why “Free” Often Comes at a High Cost](https://spyboy.blog/2025/02/25/the-hidden-dangers-of-free-vpns-why-free-often-comes-at-a-high-cost/)
 - [Ultimate Guide: Installing Linux from a USB Drive &lpar;Including Kali Linux Live/Persistence&rpar;](https://spyboy.blog/2025/02/24/ultimate-guide-installing-linux-from-a-usb-drive-including-kali-linux-live-persistence/)
 - [100+ Useful Windows Run Commands for Productivity &amp; System Management](https://spyboy.blog/2025/02/20/100-useful-windows-run-commands-for-productivity-system-management/)
 - [How to Create a Windows Screensaver from a Python Script](https://spyboy.blog/2025/02/19/how-to-create-a-windows-screensaver-from-a-python-script/)
 - [Boost Your Windows Skills: Must-Know CMD Commands](https://spyboy.blog/2025/02/18/boost-your-windows-skills-must-know-cmd-commands/)
-- [Bypassing UAC with runasinvoker – A Simple Trick for Running Programs Without Admin Prompt](https://spyboy.blog/2025/02/15/bypassing-uac-with-runasinvoker-a-simple-trick-for-running-programs-without-admin-prompt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
