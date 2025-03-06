@@ -68,11 +68,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How USB Viruses Fill Your Hard Drive](https://spyboy.blog/2025/03/06/how-usb-viruses-fill-your-hard-drive/)
 - [How to Check If Your Home CCTV Camera Is Exposed to Hackers &lpar;And Secure It&rpar;](https://spyboy.blog/2025/02/28/how-to-check-if-your-home-cctv-camera-is-exposed-to-hackers-and-secure-it/)
 - [The Ultimate Guide to Locking Down Your Android: Critical Privacy &amp; Security Settings for the Paranoid &lpar;and Everyone Else&rpar;](https://spyboy.blog/2025/02/27/the-ultimate-guide-to-locking-down-your-android-critical-privacy-security-settings-for-the-paranoid-and-everyone-else/)
 - [The Hidden Dangers of Free VPNs: Why “Free” Often Comes at a High Cost](https://spyboy.blog/2025/02/25/the-hidden-dangers-of-free-vpns-why-free-often-comes-at-a-high-cost/)
 - [Ultimate Guide: Installing Linux from a USB Drive &lpar;Including Kali Linux Live/Persistence&rpar;](https://spyboy.blog/2025/02/24/ultimate-guide-installing-linux-from-a-usb-drive-including-kali-linux-live-persistence/)
-- [100+ Useful Windows Run Commands for Productivity &amp; System Management](https://spyboy.blog/2025/02/20/100-useful-windows-run-commands-for-productivity-system-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
