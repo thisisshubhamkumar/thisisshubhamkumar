@@ -78,10 +78,6 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 
 [learn Java] [Java Programming]
 
-### Invite Discord cybersecurity bot !!
-
-- [Invite The Bot Here](https://top.gg/bot/877644741339144244)
-
 ---
 
 ### 📺 Latest YouTube Videos
