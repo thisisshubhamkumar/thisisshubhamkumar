@@ -1,8 +1,58 @@
-### Hi there 👋
+### Namaste 🙏
 
-[![Play Store](https://img.shields.io/badge/-PlayStore-black?style=flat&labelColor=black&logo=android&logoColor=green)](https://play.google.com/store/apps/details?id=info.shubham.pcassistant)
-[![Website](https://img.shields.io/badge/website-spyboy.in-<COLOR>)](https://spyboy.in/)
-[![Website](https://img.shields.io/badge/Blog-spyboy.blog-<COLOR>)](https://spyboy.blog/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyboy-productions)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://spyboy.in/twitter)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itisspyboy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohitsspyboy/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZChEmMwE8d)
+[![🌍 Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://spyboy.in/)
+[![📝 Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://spyboy.blog/)
+[![📱 Play Store](https://img.shields.io/badge/PlayStore-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6188034454598466210)
+
+---
+
+##### Our Open Source Projects:
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/r4ven?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/r4ven?style=social)
+[**R4ven**](https://github.com/spyboy-productions/r4ven) - `Track` the accurate `location` of Mobile/Pc using social engineering.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CloakQuest3r?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CloakQuest3r?style=social)
+[**CloakQuest3r**](https://github.com/spyboy-productions/CloakQuest3r) - `Uncover` the true `IP address` of websites safeguarded by Cloudflare.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Valid8Proxy?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/Valid8Proxy?style=social)
+[**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for `fetching, validating, and storing working proxies`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Facad1ng?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/Facad1ng?style=social)
+[**Facad1ng**](https://github.com/spyboy-productions/Facad1ng) - Mask(hide) `phishing URL` using social engineering.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/WebSecProbe?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/WebSecProbe?style=social)
+[**WebSecProbe**](https://github.com/spyboy-productions/WebSecProbe) - Bypass `403`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/omnisci3nt?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/omnisci3nt?style=social)
+[**Omnisci3nt**](https://github.com/spyboy-productions/omnisci3nt) - Complete `Web Reconnaissance` Tool.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/unve1ler?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/unve1ler?style=social)
+[**Unve1ler**](https://github.com/spyboy-productions/unve1ler) - `Find people` using `usernames, images, and email`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/PhantomCrawler?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/PhantomCrawler?style=social)
+[**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) - `Boost website hits`, `Proxy Rotation Testing`, `Web Scraping Testing`, `DDOS Tool`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/M474?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/M474?style=social)
+[**M474**](https://github.com/spyboy-productions/M474) - Changing `MAC addresses`, `randomizing internal IP addresses`, and `renewing IP addresses`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CrabCrypt?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CrabCrypt?style=social)
+[**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) - `Encrypt` and `Decrypt` any file with GUI.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/ObfuXtreme?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/ObfuXtreme?style=social)
+[**ObfuXtreme**](https://github.com/spyboy-productions/ObfuXtreme) - Advanced `Python Code` `Obfuscation Tool`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CamXploit?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CamXploit?style=social)
+[**CamXploit**](https://github.com/spyboy-productions/CamXploit) - `Check if an IP address` is `hosting` an `exposed CCTV camera`.
+
+- ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Quot3w4ll?style=social) ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/Quot3w4ll?style=social)
+[**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) - Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
+
+<h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
 ---
 
@@ -31,25 +81,6 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### Invite Discord cybersecurity bot !!
 
 - [Invite The Bot Here](https://top.gg/bot/877644741339144244)
-
-### Try our cybersecurity tools !!
-
-- [r4ven - Capture the target's IP address, GPS location, device picture, and information](https://github.com/spyboy-productions/r4ven)
-
-- [omnisci3nt - A Comprehensive Web Reconnaissance Tool](https://github.com/spyboy-productions/omnisci3nt)
-
-- [unve1ler - Revealing Digital Footprints and Visual Clues on the Internet](https://github.com/spyboy-productions/unve1ler)
-
-- [Facad1ng - URL masking tool designed to help you Hide Phishing URLs and make them look legit using social engineering.](https://github.com/spyboy-productions/Facad1ng)
-
-- [WebSecProbe - Web Security Assessment Tool, Bypass 403](https://github.com/spyboy-productions/WebSecProbe)
-  
----
-
-- 🌐 My Website: https://spyboy.in/
-- 🌐 My Blog: https://spyboy.blog/
-- 🤖 I’m currently working on ...
-- 👀 I’m looking for an android developer, reach me on discord.
 
 ---
 
