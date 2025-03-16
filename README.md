@@ -1,5 +1,6 @@
-### Namaste 🙏
+### (^^)
 
+[![Threads](https://img.shields.io/badge/Threads-%23E4405F.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ohitsspyboy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyboy-productions)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://spyboy.in/twitter)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itisspyboy)
