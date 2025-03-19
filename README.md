@@ -73,11 +73,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ObfuXtreme: Advanced Python Obfuscation Techniques](https://spyboy.blog/2025/03/19/obfuxtreme-advanced-python-obfuscation-techniques/)
 - [The Truth About VPNs: Why Most Are a Joke in the Name of Privacy](https://spyboy.blog/2025/03/17/the-truth-about-vpns-why-most-are-a-joke-in-the-name-of-privacy/)
 - [How Likely Is Your Personal Information to Be Exposed on the Darknet in Today’s Time?](https://spyboy.blog/2025/03/13/how-likely-is-your-personal-information-to-be-exposed-on-the-darknet-in-todays-time/)
 - [Wi-Fi Hacking Without an External Wi-Fi Adapter &lpar;2025 Guide&rpar;](https://spyboy.blog/2025/03/11/wi-fi-hacking-without-an-external-wi-fi-adapter-2025-guide/)
 - [Wi-Fi Hacking in 2025: What Works Best?](https://spyboy.blog/2025/03/10/wi-fi-hacking-in-2025-what-works-best/)
-- [How USB Viruses Fill Your Hard Drive](https://spyboy.blog/2025/03/06/how-usb-viruses-fill-your-hard-drive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
