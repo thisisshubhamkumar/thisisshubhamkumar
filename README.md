@@ -73,11 +73,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Art of Phone Number Spoofing: How Scammers Pretend to Be You](https://spyboy.blog/2025/03/27/the-dark-art-of-phone-number-spoofing-how-scammers-pretend-to-be-you/)
 - [Defending Against the Storm: Understanding DDoS Attacks in 2025 and Beyond](https://spyboy.blog/2025/03/26/defending-against-the-storm-understanding-ddos-attacks-in-2025-and-beyond/)
 - [Keylogging: Understanding the Silent Threat That Records Your Keystrokes](https://spyboy.blog/2025/03/25/keylogging-understanding-the-silent-threat-that-records-your-keystrokes/)
 - [Top Phishing Techniques &amp; Prevention Strategies](https://spyboy.blog/2025/03/24/top-phishing-techniques-prevention-strategies/)
 - [Common Mistakes Made by Bug Bounty Hunters and How to Avoid Them](https://spyboy.blog/2025/03/23/common-mistakes-made-by-bug-bounty-hunters-and-how-to-avoid-them/)
-- [CamXploit: how to hack CCTV cameras](https://spyboy.blog/2025/03/21/camxploit-how-to-hack-cctv-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
