@@ -1,11 +1,19 @@
-### (^^)
+<div id="connect">
+  <a href="https://spyboy.in/twitter">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.linkedin.com/in/ohitsspyboy/">
+    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.instagram.com/ohitsspyboy/"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
+  <a href="https://discord.gg/ZChEmMwE8d">
+    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
+  </a>
+</div>
 
 [![Threads](https://img.shields.io/badge/Threads-%23E4405F.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ohitsspyboy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyboy-productions)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://spyboy.in/twitter)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itisspyboy)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohitsspyboy/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZChEmMwE8d)
 [![🌍 Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://spyboy.in/)
 [![📝 Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://spyboy.blog/)
 [![📱 Play Store](https://img.shields.io/badge/PlayStore-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6188034454598466210)
