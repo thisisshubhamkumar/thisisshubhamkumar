@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Your Data: BYOD Best Practices](https://spyboy.blog/2025/04/02/protecting-your-data-byod-best-practices/)
 - [How to Create an AI Avatar/Model: A Step-by-Step Guide](https://spyboy.blog/2025/03/28/how-to-create-an-ai-avatar-model-a-step-by-step-guide/)
 - [The Dark Art of Phone Number Spoofing: How Scammers Pretend to Be You](https://spyboy.blog/2025/03/27/the-dark-art-of-phone-number-spoofing-how-scammers-pretend-to-be-you/)
 - [Defending Against the Storm: Understanding DDoS Attacks in 2025 and Beyond](https://spyboy.blog/2025/03/26/defending-against-the-storm-understanding-ddos-attacks-in-2025-and-beyond/)
 - [Keylogging: Understanding the Silent Threat That Records Your Keystrokes](https://spyboy.blog/2025/03/25/keylogging-understanding-the-silent-threat-that-records-your-keystrokes/)
-- [Top Phishing Techniques &amp; Prevention Strategies](https://spyboy.blog/2025/03/24/top-phishing-techniques-prevention-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
