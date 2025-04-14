@@ -37,7 +37,7 @@
 | [**ObfuXtreme**](https://github.com/spyboy-productions/ObfuXtreme) | Advanced `Python Code` `Obfuscation Tool`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/ObfuXtreme?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/ObfuXtreme?style=social) |
 | [**CamXploit**](https://github.com/spyboy-productions/CamXploit) | `Check if an IP address` is `hosting` an `exposed CCTV camera`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CamXploit?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CamXploit?style=social) |
 | [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) | Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Quot3w4ll?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/Quot3w4ll?style=social) |
-
+| [**CipherGist**](https://github.com/spyboy-productions/CipherGist) | `End-to-End Encrypted Messaging` via `GitHub Gists`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CipherGist?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CipherGist?style=social) |
 ---
 
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
