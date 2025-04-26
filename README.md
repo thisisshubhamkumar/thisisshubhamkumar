@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Finding HTML Injection Vulnerabilities — Guaranteed Method + Top Payloads &amp; Tools](https://spyboy.blog/2025/04/26/the-ultimate-guide-to-finding-html-injection-vulnerabilities-guaranteed-method-top-payloads-tools/)
 - [The Ultimate Guide to Finding IDOR Vulnerabilities — Guaranteed Approach + Top Payloads &amp; Tools](https://spyboy.blog/2025/04/24/the-ultimate-guide-to-finding-idor-vulnerabilities-guaranteed-approach-top-payloads-tools/)
 - [🛡️ A Guaranty Guide to Finding XSS Vulnerabilities &lpar;with Top Payloads&rpar;](https://spyboy.blog/2025/04/22/%f0%9f%9b%a1%ef%b8%8f-a-guaranty-guide-to-finding-xss-vulnerabilities-with-top-payloads/)
 - [The Future of Private Messaging Doesn’t Need a Server](https://spyboy.blog/2025/04/14/the-future-of-private-messaging-doesnt-need-a-server/)
 - [Top Vulnerabilities for Bug Bounty Hunters](https://spyboy.blog/2025/04/12/top-vulnerabilities-for-bug-bounty-hunters/)
-- [How to Prevent Subdomain Takeovers: A Complete Guide](https://spyboy.blog/2025/04/10/how-to-prevent-subdomain-takeovers-a-complete-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
