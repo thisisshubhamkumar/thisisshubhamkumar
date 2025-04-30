@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Finding Authentication Bypass &amp; Weak Authentication Logic Vulnerabilities &lpar;Step-by-Step + Payloads + Tools&rpar;](https://spyboy.blog/2025/04/30/the-ultimate-guide-to-finding-authentication-bypass-weak-authentication-logic-vulnerabilities-step-by-step-payloads-tools/)
 - [Google’s Own Email Weaponized: How Hackers Hijacked no-reply@google.com](https://spyboy.blog/2025/04/28/googles-own-email-weaponized-how-hackers-hijacked-no-replygoogle-com/)
 - [The Ultimate Guide to Finding Subdomain Takeover Vulnerabilities &lpar;Step-by-Step + Payloads &amp; Tools&rpar;](https://spyboy.blog/2025/04/28/the-ultimate-guide-to-finding-subdomain-takeover-vulnerabilities-step-by-step-payloads-tools/)
 - [The Ultimate Guide to Finding HTML Injection Vulnerabilities — Guaranteed Method + Top Payloads &amp; Tools](https://spyboy.blog/2025/04/26/the-ultimate-guide-to-finding-html-injection-vulnerabilities-guaranteed-method-top-payloads-tools/)
 - [The Ultimate Guide to Finding IDOR Vulnerabilities — Guaranteed Approach + Top Payloads &amp; Tools](https://spyboy.blog/2025/04/24/the-ultimate-guide-to-finding-idor-vulnerabilities-guaranteed-approach-top-payloads-tools/)
-- [🛡️ A Guaranty Guide to Finding XSS Vulnerabilities &lpar;with Top Payloads&rpar;](https://spyboy.blog/2025/04/22/%f0%9f%9b%a1%ef%b8%8f-a-guaranty-guide-to-finding-xss-vulnerabilities-with-top-payloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
