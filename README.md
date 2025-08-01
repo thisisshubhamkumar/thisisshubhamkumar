@@ -92,13 +92,6 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 
 ---
 
-<a href="https://spyboy.blog/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thisisshubhamkumar&show_icons=true&include_all_commits=true&theme=material-palenight" alt="thisisshubhamkumar github stats" />
-</a>
-<a href="https://spyboy.blog/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisisshubhamkumar&layout=compact&theme=material-palenight" />
-</a>
 
 [Discord]: https://discord.gg/ZChEmMwE8d
 [website]: https://spyboy.blog/
