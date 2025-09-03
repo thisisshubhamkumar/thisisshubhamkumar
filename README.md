@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe-Hacking: The New Frontier in AI Cybercrime](https://spyboy.blog/2025/09/04/vibe-hacking-the-new-frontier-in-ai-cybercrime/)
 - [Create Fake File in Windows PC of Any Size and Format &lpar;No Software Needed&rpar;](https://spyboy.blog/2025/09/03/create-fake-file-in-windows-pc-of-any-size-and-format-no-software-needed/)
 - [How to Create a Voice Welcome Message on Windows](https://spyboy.blog/2025/09/02/how-to-create-a-voice-welcome-message-on-windows/)
 - [How to Change Windows Password Without Old One](https://spyboy.blog/2025/09/01/how-to-change-windows-password-without-old-one/)
 - [Step-by-Step Guide to Create a Dark Net Website](https://spyboy.blog/2025/08/31/step-by-step-guide-to-create-a-dark-net-website/)
-- [Secure Your Emails: Self-Destruct and Password Protection Techniques](https://spyboy.blog/2025/08/30/secure-your-emails-self-destruct-and-password-protection-techniques/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
