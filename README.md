@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Password Cracking Tools &lpar;Hydra, John the Ripper, Hashcat&rpar;: How They Work &amp; Safe Legal Lab Setup](https://spyboy.blog/2025/09/08/password-cracking-tools-hydra-john-the-ripper-hashcat-how-they-work-safe-legal-lab-setup/)
 - [The Hidden Dangers of Downloading Free Hacking Tools](https://spyboy.blog/2025/09/07/the-hidden-dangers-of-downloading-free-hacking-tools/)
 - [Mobile Hacking Apps: What They Really Do](https://spyboy.blog/2025/09/06/mobile-hacking-apps-what-they-really-do/)
 - [Deepfake &amp; Vishing Threats: How AI-Powered Impersonation Scams Are Redefining Cybercrime](https://spyboy.blog/2025/09/05/deepfake-vishing-threats-how-ai-powered-impersonation-scams-are-redefining-cybercrime/)
 - [Vibe-Hacking: The New Frontier in AI Cybercrime](https://spyboy.blog/2025/09/04/vibe-hacking-the-new-frontier-in-ai-cybercrime/)
-- [Create Fake File in Windows PC of Any Size and Format &lpar;No Software Needed&rpar;](https://spyboy.blog/2025/09/03/create-fake-file-in-windows-pc-of-any-size-and-format-no-software-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
