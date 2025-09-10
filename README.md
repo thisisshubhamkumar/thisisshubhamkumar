@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Track Someone If You Have Their Phone Number: The Ultimate OSINT Guide](https://spyboy.blog/2025/09/10/how-to-track-someone-if-you-have-their-phone-number-the-ultimate-osint-guide/)
 - [Free DDoS Tools &amp; Stressers &lpar;LOIC, HOIC, HULK, etc.&rpar;: What Beginners Need to Know](https://spyboy.blog/2025/09/09/free-ddos-tools-stressers-loic-hoic-hulk-etc-what-beginners-need-to-know/)
 - [Password Cracking Tools &lpar;Hydra, John the Ripper, Hashcat&rpar;: How They Work &amp; Safe Legal Lab Setup](https://spyboy.blog/2025/09/08/password-cracking-tools-hydra-john-the-ripper-hashcat-how-they-work-safe-legal-lab-setup/)
 - [The Hidden Dangers of Downloading Free Hacking Tools](https://spyboy.blog/2025/09/07/the-hidden-dangers-of-downloading-free-hacking-tools/)
 - [Mobile Hacking Apps: What They Really Do](https://spyboy.blog/2025/09/06/mobile-hacking-apps-what-they-really-do/)
-- [Deepfake &amp; Vishing Threats: How AI-Powered Impersonation Scams Are Redefining Cybercrime](https://spyboy.blog/2025/09/05/deepfake-vishing-threats-how-ai-powered-impersonation-scams-are-redefining-cybercrime/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
