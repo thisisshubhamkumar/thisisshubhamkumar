@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Essential Android Privacy Settings You Must Enable](https://spyboy.blog/2025/11/06/7-essential-android-privacy-settings-you-must-enable/)
 - [I Found a Vulnerable Site in 5 Minutes — The Recon Trick I Used](https://spyboy.blog/2025/11/05/i-found-a-vulnerable-site-in-5-minutes-the-recon-trick-i-used/)
 - [Stop Guessing: Accurate OSINT Methods for Finding People Online](https://spyboy.blog/2025/11/03/stop-guessing-accurate-osint-methods-for-finding-people-online/)
 - [I Tested 10 Social Engineering Tricks — Number 3 Blew My Mind](https://spyboy.blog/2025/11/01/i-tested-10-social-engineering-tricks-number-3-blew-my-mind/)
 - [I Spent 48 Hours on the Darknet — What I Found Will Shock You](https://spyboy.blog/2025/10/30/i-spent-48-hours-on-the-darknet-what-i-found-will-shock-you/)
-- [Top Web Application Vulnerabilities Hackers Target](https://spyboy.blog/2025/10/28/top-web-application-vulnerabilities-hackers-target/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
