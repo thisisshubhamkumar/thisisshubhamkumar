@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your PASSWORD Is USELESS: Why Experts Are Ditching MFA for THIS Simple Security Upgrade](https://spyboy.blog/2025/11/27/your-password-is-useless-why-experts-are-ditching-mfa-for-this-simple-security-upgrade/)
 - [Proof: Why 98% of Phishing Training is a JOKE &lpar;And the One Click You Must NEVER Make&rpar;](https://spyboy.blog/2025/11/25/proof-why-98-of-phishing-training-is-a-joke-and-the-one-click-you-must-never-make/)
 - [Is Your Phone Listening to You 24/7? A Deep Dive Into the Creepy Reality of Phone Microphones, Targeted Ads &amp; Modern Privacy](https://spyboy.blog/2025/11/24/is-your-phone-listening-to-you-24-7-a-deep-dive-into-the-creepy-reality-of-phone-microphones-targeted-ads-modern-privacy/)
 - [STOP EVERYTHING: The Unthinkable Ransomware Hackers Are Using NOW &lpar;And 3 Ways To Fight Back&rpar;](https://spyboy.blog/2025/11/23/stop-everything-the-unthinkable-ransomware-hackers-are-using-now-and-3-ways-to-fight-back/)
 - [Guide to Recovering Deleted Files on Windows](https://spyboy.blog/2025/11/09/guide-to-recovering-deleted-files-on-windows/)
-- [7 Essential Android Privacy Settings You Must Enable](https://spyboy.blog/2025/11/06/7-essential-android-privacy-settings-you-must-enable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
