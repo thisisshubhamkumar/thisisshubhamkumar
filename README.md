@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Forensics Master Guide: How Investigators Recover Data from PCs &amp; Mobile Phones &lpar;Even After Deletion&rpar;](https://spyboy.blog/2025/11/29/digital-forensics-master-guide-how-investigators-recover-data-from-pcs-mobile-phones-even-after-deletion/)
 - [Your PASSWORD Is USELESS: Why Experts Are Ditching MFA for THIS Simple Security Upgrade](https://spyboy.blog/2025/11/27/your-password-is-useless-why-experts-are-ditching-mfa-for-this-simple-security-upgrade/)
 - [Proof: Why 98% of Phishing Training is a JOKE &lpar;And the One Click You Must NEVER Make&rpar;](https://spyboy.blog/2025/11/25/proof-why-98-of-phishing-training-is-a-joke-and-the-one-click-you-must-never-make/)
 - [Is Your Phone Listening to You 24/7? A Deep Dive Into the Creepy Reality of Phone Microphones, Targeted Ads &amp; Modern Privacy](https://spyboy.blog/2025/11/24/is-your-phone-listening-to-you-24-7-a-deep-dive-into-the-creepy-reality-of-phone-microphones-targeted-ads-modern-privacy/)
 - [STOP EVERYTHING: The Unthinkable Ransomware Hackers Are Using NOW &lpar;And 3 Ways To Fight Back&rpar;](https://spyboy.blog/2025/11/23/stop-everything-the-unthinkable-ransomware-hackers-are-using-now-and-3-ways-to-fight-back/)
-- [Guide to Recovering Deleted Files on Windows](https://spyboy.blog/2025/11/09/guide-to-recovering-deleted-files-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
