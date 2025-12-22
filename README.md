@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Is How I Hacked a Website Using Broken Access Control](https://spyboy.blog/2025/12/23/this-is-how-i-hacked-a-website-using-broken-access-control/)
 - [I Built a Tool That Extracts Emails &amp; Phone Numbers From Instagram Profiles &lpar;OSINT Breakdown&rpar;](https://spyboy.blog/2025/12/22/i-built-a-tool-that-extracts-emails-phone-numbers-from-instagram-profiles-osint-breakdown/)
 - [This Is How I Hacked a Web App Using IDOR](https://spyboy.blog/2025/12/21/this-is-how-i-hacked-a-web-app-using-idor/)
 - [How to Run an Uncensored AI Model on Your Own PC Using LM Studio for Hacking &amp; Adult Chat &lpar;Complete Guide&rpar;](https://spyboy.blog/2025/12/19/how-to-run-an-uncensored-ai-model-on-your-own-pc-using-lm-studio-for-hacking-adult-chat-complete-guide/)
 - [Digital Forensics Master Guide: How Investigators Recover Data from PCs &amp; Mobile Phones &lpar;Even After Deletion&rpar;](https://spyboy.blog/2025/11/29/digital-forensics-master-guide-how-investigators-recover-data-from-pcs-mobile-phones-even-after-deletion/)
-- [Your PASSWORD Is USELESS: Why Experts Are Ditching MFA for THIS Simple Security Upgrade](https://spyboy.blog/2025/11/27/your-password-is-useless-why-experts-are-ditching-mfa-for-this-simple-security-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
