@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Is How I Hacked an Admin Panel Using Parameter Tampering](https://spyboy.blog/2025/12/29/this-is-how-i-hacked-an-admin-panel-using-parameter-tampering/)
 - [This Is How I Hacked a Private User Account Using Insecure API Endpoints](https://spyboy.blog/2025/12/27/this-is-how-i-hacked-a-private-user-account-using-insecure-api-endpoints/)
 - [This Is How I Hacked a Login System Using Logic Flaws](https://spyboy.blog/2025/12/25/this-is-how-i-hacked-a-login-system-using-logic-flaws/)
 - [This Is How I Hacked a Website Using Broken Access Control](https://spyboy.blog/2025/12/23/this-is-how-i-hacked-a-website-using-broken-access-control/)
 - [I Built a Tool That Extracts Emails &amp; Phone Numbers From Instagram Profiles &lpar;OSINT Breakdown&rpar;](https://spyboy.blog/2025/12/22/i-built-a-tool-that-extracts-emails-phone-numbers-from-instagram-profiles-osint-breakdown/)
-- [This Is How I Hacked a Web App Using IDOR](https://spyboy.blog/2025/12/21/this-is-how-i-hacked-a-web-app-using-idor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
