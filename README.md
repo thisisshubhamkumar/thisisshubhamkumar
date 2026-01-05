@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Is How I Hacked a Payment Flow Using Business Logic Abuse](https://spyboy.blog/2026/01/05/this-is-how-i-hacked-a-payment-flow-using-business-logic-abuse/)
 - [This Is How I Hacked a File Upload Feature to Get Remote Access](https://spyboy.blog/2026/01/03/this-is-how-i-hacked-a-file-upload-feature-to-get-remote-access/)
 - [This Is How I Hacked a Mobile App Backend Without Touching the App](https://spyboy.blog/2026/01/01/this-is-how-i-hacked-a-mobile-app-backend-without-touching-the-app/)
 - [This Is How I Hacked a Web App Using Stored XSS to Steal Sessions](https://spyboy.blog/2025/12/31/this-is-how-i-hacked-a-web-app-using-stored-xss-to-steal-sessions/)
 - [This Is How I Hacked an Admin Panel Using Parameter Tampering](https://spyboy.blog/2025/12/29/this-is-how-i-hacked-an-admin-panel-using-parameter-tampering/)
-- [This Is How I Hacked a Private User Account Using Insecure API Endpoints](https://spyboy.blog/2025/12/27/this-is-how-i-hacked-a-private-user-account-using-insecure-api-endpoints/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
