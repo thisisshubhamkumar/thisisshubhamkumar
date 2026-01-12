@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Know If an Image Is AI-Generated, Altered, or Edited &lpar;The Complete 2026 Guide&rpar;](https://spyboy.blog/2026/01/12/how-to-know-if-an-image-is-ai-generated-altered-or-edited-the-complete-2026-guide/)
 - [This Is How I Hacked an OTP Verification System](https://spyboy.blog/2026/01/11/this-is-how-i-hacked-an-otp-verification-system/)
 - [Android Stuck on Boot Loop / Recovery Mode? Complete Fix Guide &lpar;Works Even If Power Button Is Broken&rpar;](https://spyboy.blog/2026/01/10/android-stuck-on-boot-loop-recovery-mode-complete-fix-guide-works-even-if-power-button-is-broken/)
 - [This Is How I Hacked a Web App Using Race Conditions](https://spyboy.blog/2026/01/09/this-is-how-i-hacked-a-web-app-using-race-conditions/)
 - [This Is How I Hacked a Production System Because of One Missing Authorization Check](https://spyboy.blog/2026/01/07/this-is-how-i-hacked-a-production-system-because-of-one-missing-authorization-check/)
-- [This Is How I Hacked a Payment Flow Using Business Logic Abuse](https://spyboy.blog/2026/01/05/this-is-how-i-hacked-a-payment-flow-using-business-logic-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
