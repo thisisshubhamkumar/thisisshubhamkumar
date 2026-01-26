@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone Could Be Reading Your WhatsApp Right Now — And You’d Never Know](https://spyboy.blog/2026/01/26/someone-could-be-reading-your-whatsapp-right-now-and-youd-never-know/)
 - [Why Changing Your Password Won’t Save You From This New Attack](https://spyboy.blog/2026/01/24/why-changing-your-password-wont-save-you-from-this-new-attack/)
 - [This One Click Can Give Hackers Full Access to Your Gmail](https://spyboy.blog/2026/01/22/this-one-click-can-give-hackers-full-access-to-your-gmail/)
 - [Instagram Account Takeover Without Login: The Silent Method](https://spyboy.blog/2026/01/21/instagram-account-takeover-without-login-the-silent-method/)
 - [Why Every Major Platform Can Be Hacked Without Breaking In](https://spyboy.blog/2026/01/19/why-every-major-platform-can-be-hacked-without-breaking-in/)
-- [How to Land Your First Cybersecurity Job &lpar;A Realistic, No-Fluff Roadmap That Actually Works&rpar;](https://spyboy.blog/2026/01/18/how-to-land-your-first-cybersecurity-job-a-realistic-no-fluff-roadmap-that-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
