@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Crack Any Software With Reverse Engineering](https://spyboy.blog/2026/01/30/how-hackers-crack-any-software-with-reverse-engineering/)
 - [The Ultimate WordPress Pentesting Cheatsheet for 2026](https://spyboy.blog/2026/01/29/the-ultimate-wordpress-pentesting-cheatsheet-for-2026/)
 - [The Ultimate Guide to Web Application Penetration Testing 2026](https://spyboy.blog/2026/01/28/the-ultimate-guide-to-web-application-penetration-testing-2026/)
 - [Hackers Don’t Break In Anymore — They Walk In](https://spyboy.blog/2026/01/27/hackers-dont-break-in-anymore-they-walk-in/)
 - [Someone Could Be Reading Your WhatsApp Right Now — And You’d Never Know](https://spyboy.blog/2026/01/26/someone-could-be-reading-your-whatsapp-right-now-and-youd-never-know/)
-- [Why Changing Your Password Won’t Save You From This New Attack](https://spyboy.blog/2026/01/24/why-changing-your-password-wont-save-you-from-this-new-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
