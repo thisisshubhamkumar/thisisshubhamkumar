@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Hack Wi-Fi Passwords &lpar;Public Wi-Fi Explained&rpar;](https://spyboy.blog/2026/02/06/how-hackers-hack-wi-fi-passwords-public-wi-fi-explained/)
 - [Can Hackers Hack Your Phone Using Just a Link?](https://spyboy.blog/2026/02/05/can-hackers-hack-your-phone-using-just-a-link/)
 - [Can Someone Hack Your Account With Just Your Email?](https://spyboy.blog/2026/02/04/can-someone-hack-your-account-with-just-your-email/)
 - [How Facebook Accounts Are Hacked Using Simple Tricks](https://spyboy.blog/2026/02/03/how-facebook-accounts-are-hacked-using-simple-tricks/)
 - [The Dark Side of “Login With Google” Nobody Talks About](https://spyboy.blog/2026/02/02/the-dark-side-of-login-with-google-nobody-talks-about/)
-- [How Hackers Hack Instagram Accounts &lpar;And How to Stop It&rpar;](https://spyboy.blog/2026/02/01/how-hackers-hack-instagram-accounts-and-how-to-stop-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
