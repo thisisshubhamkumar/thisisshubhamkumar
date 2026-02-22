@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Use Browser Extensions to Steal Data &lpar;And How to Protect Yourself&rpar;](https://spyboy.blog/2026/02/22/how-hackers-use-browser-extensions-to-steal-data-and-how-to-protect-yourself/)
 - [Is It Possible to Hack Someone Remotely? Explained &lpar;What’s Real, What’s Myth, and How to Stay Safe&rpar;](https://spyboy.blog/2026/02/20/is-it-possible-to-hack-someone-remotely-explained-whats-real-whats-myth-and-how-to-stay-safe/)
 - [How Hackers Know So Much About You From the Internet](https://spyboy.blog/2026/02/18/how-hackers-know-so-much-about-you-from-the-internet/)
 - [How Hackers Steal Login Details From Legit Websites &lpar;And How to Protect Yourself&rpar;](https://spyboy.blog/2026/02/17/how-hackers-steal-login-details-from-legit-websites-and-how-to-protect-yourself/)
 - [This One Click Can Give Hackers Full Access to Your Gmail &lpar;And How to Stop It&rpar;](https://spyboy.blog/2026/02/15/this-one-click-can-give-hackers-full-access-to-your-gmail-and-how-to-stop-it/)
-- [This Fake Instagram Warning Is Stealing Accounts Instantly &lpar;And How to Stay Safe&rpar;](https://spyboy.blog/2026/02/14/this-fake-instagram-warning-is-stealing-accounts-instantly-and-how-to-stay-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
