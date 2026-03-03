@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Computer Virus? &lpar;What Really Happens If You Try in 2026&rpar;](https://spyboy.blog/2026/03/03/how-to-make-a-computer-virus-what-really-happens-if-you-try-in-2026/)
 - [Someone Is Blackmailing Me With a Video — What Should I Do? &lpar;Urgent Guide 2026&rpar;](https://spyboy.blog/2026/03/02/someone-is-blackmailing-me-with-a-video-what-should-i-do-urgent-guide-2026/)
 - [Someone Scammed Me Online — What Should I Do? &lpar;Step-by-Step Recovery Guide 2026&rpar;](https://spyboy.blog/2026/03/01/someone-scammed-me-online-what-should-i-do-step-by-step-recovery-guide-2026/)
 - [Dark Web Hacker Services — Real or Scam? &lpar;What Nobody Tells You in 2026&rpar;](https://spyboy.blog/2026/02/28/dark-web-hacker-services-real-or-scam-what-nobody-tells-you-in-2026/)
 - [India’s UPI and the Risk of Being Framed: Can Someone Send You Money and Get You Into Trouble?](https://spyboy.blog/2026/02/27/indias-upi-and-the-risk-of-being-framed-can-someone-send-you-money-and-get-you-into-trouble/)
-- [How to Spy on Someone’s WhatsApp? &lpar;What Actually Works &amp; What’s a Scam in 2026&rpar;](https://spyboy.blog/2026/02/27/how-to-spy-on-someones-whatsapp-what-actually-works-whats-a-scam-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
