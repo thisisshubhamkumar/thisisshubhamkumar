@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Honeypot Server to Catch Hackers &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/11/how-to-make-a-honeypot-server-to-catch-hackers-step-by-step-guide/)
 - [How to Make a Secure Encrypted Messenger Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/10/how-to-make-a-secure-encrypted-messenger-using-python-step-by-step-guide/)
 - [How to Make a Web Vulnerability Scanner Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/09/how-to-make-a-web-vulnerability-scanner-using-python-step-by-step-guide/)
 - [How to Make Your Own OSINT Tool Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/08/how-to-make-your-own-osint-tool-using-python-step-by-step-guide/)
 - [How to Spy on Someone’s Phone? &lpar;The Truth Nobody Tells You in 2026&rpar;](https://spyboy.blog/2026/03/07/how-to-spy-on-someones-phone-the-truth-nobody-tells-you-in-2026/)
-- [Can Someone Hack My Phone Through a Link? &lpar;What Really Happens in 2026&rpar;](https://spyboy.blog/2026/03/06/can-someone-hack-my-phone-through-a-link-what-really-happens-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
