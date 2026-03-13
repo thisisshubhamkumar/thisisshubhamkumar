@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Metadata Extractor Tool &lpar;For OSINT &amp; Digital Forensics&rpar;](https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/)
 - [How to Make a Dark Web Monitoring Script Using Tor &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/12/how-to-make-a-dark-web-monitoring-script-using-tor-step-by-step-guide/)
 - [How to Make a Honeypot Server to Catch Hackers &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/11/how-to-make-a-honeypot-server-to-catch-hackers-step-by-step-guide/)
 - [How to Make a Secure Encrypted Messenger Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/10/how-to-make-a-secure-encrypted-messenger-using-python-step-by-step-guide/)
 - [How to Make a Web Vulnerability Scanner Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/09/how-to-make-a-web-vulnerability-scanner-using-python-step-by-step-guide/)
-- [How to Make Your Own OSINT Tool Using Python &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/08/how-to-make-your-own-osint-tool-using-python-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
