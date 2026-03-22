@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Incognito Mode Is a Lie: Why Your “Private Browsing” Isn’t Really Private](https://spyboy.blog/2026/03/23/incognito-mode-is-a-lie-why-your-private-browsing-isnt-really-private/)
 - [How to Make a Custom Browser Extension That Detects Phishing Sites &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/17/how-to-make-a-custom-browser-extension-that-detects-phishing-sites-step-by-step-guide/)
 - [How to Make a File Encryption Tool That Self-Destructs the Key &lpar;High-Security Design Guide&rpar;](https://spyboy.blog/2026/03/16/how-to-make-a-file-encryption-tool-that-self-destructs-the-key-high-security-design-guide/)
 - [How to Make a Keylogger &lpar;And How to Detect One&rpar; – Educational &amp; Defensive Guide](https://spyboy.blog/2026/03/15/how-to-make-a-keylogger-and-how-to-detect-one-educational-defensive-guide/)
 - [How to Make a Bug Bounty Automation Toolkit &lpar;Recon + Scanning + Reporting&rpar;](https://spyboy.blog/2026/03/14/how-to-make-a-bug-bounty-automation-toolkit-recon-scanning-reporting/)
-- [How to Make a Metadata Extractor Tool &lpar;For OSINT &amp; Digital Forensics&rpar;](https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
