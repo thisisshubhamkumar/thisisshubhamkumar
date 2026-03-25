@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🇮🇳 Bank Account Frozen in India? Here’s Exactly What to Do &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/26/%f0%9f%87%ae%f0%9f%87%b3-bank-account-frozen-in-india-heres-exactly-what-to-do-step-by-step-guide/)
 - [🇮🇳 SIM Swap Fraud in India: How Criminals Take Over Your Bank Account](https://spyboy.blog/2026/03/25/%f0%9f%87%ae%f0%9f%87%b3-sim-swap-fraud-in-india-how-criminals-take-over-your-bank-account/)
 - [🇮🇳 Can Someone Hack You Just With Your Aadhaar Number?](https://spyboy.blog/2026/03/24/%f0%9f%87%ae%f0%9f%87%b3-can-someone-hack-you-just-with-your-aadhaar-number/)
 - [Incognito Mode Is a Lie: Why Your “Private Browsing” Isn’t Really Private](https://spyboy.blog/2026/03/23/incognito-mode-is-a-lie-why-your-private-browsing-isnt-really-private/)
 - [How to Make a Custom Browser Extension That Detects Phishing Sites &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/17/how-to-make-a-custom-browser-extension-that-detects-phishing-sites-step-by-step-guide/)
-- [How to Make a File Encryption Tool That Self-Destructs the Key &lpar;High-Security Design Guide&rpar;](https://spyboy.blog/2026/03/16/how-to-make-a-file-encryption-tool-that-self-destructs-the-key-high-security-design-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
