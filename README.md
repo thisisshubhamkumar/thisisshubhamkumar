@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚨 How Fake Loan Apps Trap Indians](https://spyboy.blog/2026/03/29/%f0%9f%9a%a8-how-fake-loan-apps-trap-indians/)
 - [🚨 Digital Arrest Scam in India: The New Fear Tactic Explained](https://spyboy.blog/2026/03/28/%f0%9f%9a%a8-digital-arrest-scam-in-india-the-new-fear-tactic-explained/)
 - [🇮🇳 How Money Mule Accounts Work in India &lpar;And Why People Get Arrested&rpar;](https://spyboy.blog/2026/03/27/%f0%9f%87%ae%f0%9f%87%b3-how-money-mule-accounts-work-in-india-and-why-people-get-arrested/)
 - [🇮🇳 Bank Account Frozen in India? Here’s Exactly What to Do &lpar;Step-by-Step Guide&rpar;](https://spyboy.blog/2026/03/26/%f0%9f%87%ae%f0%9f%87%b3-bank-account-frozen-in-india-heres-exactly-what-to-do-step-by-step-guide/)
 - [🇮🇳 SIM Swap Fraud in India: How Criminals Take Over Your Bank Account](https://spyboy.blog/2026/03/25/%f0%9f%87%ae%f0%9f%87%b3-sim-swap-fraud-in-india-how-criminals-take-over-your-bank-account/)
-- [🇮🇳 Can Someone Hack You Just With Your Aadhaar Number?](https://spyboy.blog/2026/03/24/%f0%9f%87%ae%f0%9f%87%b3-can-someone-hack-you-just-with-your-aadhaar-number/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
