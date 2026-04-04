@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎭 Deepfake Scams in India](https://spyboy.blog/2026/04/05/%f0%9f%8e%ad-deepfake-scams-in-india/)
 - [🇮🇳 Can Hackers Empty Your Bank Account Without OTP?](https://spyboy.blog/2026/04/04/%f0%9f%87%ae%f0%9f%87%b3-can-hackers-empty-your-bank-account-without-otp/)
 - [📶 Is Public WiFi Safe in Indian Railways &amp; Airports?](https://spyboy.blog/2026/04/03/%f0%9f%93%b6-is-public-wifi-safe-in-indian-railways-airports/)
 - [🇮🇳 Are QR Code Scams Increasing in India?](https://spyboy.blog/2026/04/02/%f0%9f%87%ae%f0%9f%87%b3-are-qr-code-scams-increasing-in-india/)
 - [🇮🇳 Can Someone Take a Loan in Your Name?](https://spyboy.blog/2026/04/01/%f0%9f%87%ae%f0%9f%87%b3-can-someone-take-a-loan-in-your-name/)
-- [🛒 Safe Online Shopping Tips for Indian Users](https://spyboy.blog/2026/03/31/%f0%9f%9b%92-safe-online-shopping-tips-for-indian-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
