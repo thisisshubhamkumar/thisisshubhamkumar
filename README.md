@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Use Phishing for Recon &lpar;IP, Location, Device &amp; Image Intelligence Explained&rpar;](https://spyboy.blog/2026/04/11/how-hackers-use-phishing-for-recon-ip-location-device-image-intelligence-explained/)
 - [How to Find Someone’s Address Using OSINT &lpar;Online Recon Techniques Explained&rpar;](https://spyboy.blog/2026/04/10/how-to-find-someones-address-using-osint-online-recon-techniques-explained/)
 - [What Can Be Discovered From Just ONE Photo? &lpar;The Power of OSINT &amp; Image Recon&rpar;](https://spyboy.blog/2026/04/09/what-can-be-discovered-from-just-one-photo-the-power-of-osint-image-recon/)
 - [🔐 How to Secure Your UPI Account Properly](https://spyboy.blog/2026/04/08/%f0%9f%94%90-how-to-secure-your-upi-account-properly/)
 - [🇮🇳 Is UPI AutoPay Safe?](https://spyboy.blog/2026/04/07/%f0%9f%87%ae%f0%9f%87%b3-is-upi-autopay-safe/)
-- [🇮🇳 How Hackers Target Indian Small Businesses](https://spyboy.blog/2026/04/06/%f0%9f%87%ae%f0%9f%87%b3-how-hackers-target-indian-small-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
