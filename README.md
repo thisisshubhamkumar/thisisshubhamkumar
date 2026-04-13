@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25 Common Ways Hackers Try to Get Into Your PC &lpar;Explained Simply&rpar;](https://spyboy.blog/2026/04/14/25-common-ways-hackers-try-to-get-into-your-pc-explained-simply/)
 - [How Phone Numbers Get Exposed Online &lpar;OSINT Recon Techniques Explained&rpar;](https://spyboy.blog/2026/04/13/how-phone-numbers-get-exposed-online-osint-recon-techniques-explained/)
 - [How to Run OpenClaw AI Securely &lpar;VM &amp; Raspberry Pi Setup + Automation Guide&rpar;](https://spyboy.blog/2026/04/12/how-to-run-openclaw-ai-securely-vm-raspberry-pi-setup-automation-guide/)
 - [How Hackers Use Phishing for Recon &lpar;IP, Location, Device &amp; Image Intelligence Explained&rpar;](https://spyboy.blog/2026/04/11/how-hackers-use-phishing-for-recon-ip-location-device-image-intelligence-explained/)
 - [How to Find Someone’s Address Using OSINT &lpar;Online Recon Techniques Explained&rpar;](https://spyboy.blog/2026/04/10/how-to-find-someones-address-using-osint-online-recon-techniques-explained/)
-- [What Can Be Discovered From Just ONE Photo? &lpar;The Power of OSINT &amp; Image Recon&rpar;](https://spyboy.blog/2026/04/09/what-can-be-discovered-from-just-one-photo-the-power-of-osint-image-recon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
