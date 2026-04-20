@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Recon to Exploitation: The Full Attack Lifecycle &lpar;Explained Simply&rpar;](https://spyboy.blog/2026/04/21/from-recon-to-exploitation-the-full-attack-lifecycle-explained-simply/)
 - [What to Do If You Get Hacked &lpar;A Practical, Step-by-Step Response Guide&rpar;](https://spyboy.blog/2026/04/20/what-to-do-if-you-get-hacked-a-practical-step-by-step-response-guide/)
 - [What If Someone Targets You Online? &lpar;A Step-by-Step Scenario&rpar;](https://spyboy.blog/2026/04/19/what-if-someone-targets-you-online-a-step-by-step-scenario/)
 - [What Can Be Done With Just Your Name + Phone Number?](https://spyboy.blog/2026/04/18/what-can-be-done-with-just-your-name-phone-number/)
 - [How Long Does It Take to Hack an Average Person?](https://spyboy.blog/2026/04/17/how-long-does-it-take-to-hack-an-average-person/)
-- [How to Become Untraceable Online &lpar;Realistically&rpar;](https://spyboy.blog/2026/04/16/how-to-become-untraceable-online-realistically/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
