@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Reverse Image Search Can Track Anyone &lpar;OSINT Explained&rpar;](https://spyboy.blog/2026/04/24/how-reverse-image-search-can-track-anyone-osint-explained/)
 - [How Apps Track You Even After Uninstall &lpar;What Really Happens&rpar;](https://spyboy.blog/2026/04/23/how-apps-track-you-even-after-uninstall-what-really-happens/)
 - [What Data Your Browser Leaks &lpar;And Why It Matters&rpar;](https://spyboy.blog/2026/04/23/what-data-your-browser-leaks-and-why-it-matters/)
 - [What Makes Someone an Easy Target Online?](https://spyboy.blog/2026/04/22/what-makes-someone-an-easy-target-online/)
 - [From Recon to Exploitation: The Full Attack Lifecycle &lpar;Explained Simply&rpar;](https://spyboy.blog/2026/04/21/from-recon-to-exploitation-the-full-attack-lifecycle-explained-simply/)
-- [What to Do If You Get Hacked &lpar;A Practical, Step-by-Step Response Guide&rpar;](https://spyboy.blog/2026/04/20/what-to-do-if-you-get-hacked-a-practical-step-by-step-response-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
