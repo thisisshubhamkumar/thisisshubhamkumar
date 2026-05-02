@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lock Your BIOS/UEFI — Why a Simple Windows Password Is Not Enough](https://spyboy.blog/2026/05/02/lock-your-bios-uefi-why-a-simple-windows-password-is-not-enough/)
 - [You’re Easier to Hack Than You Think](https://spyboy.blog/2026/05/01/youre-easier-to-hack-than-you-think/)
 - [7 Hidden Ways Your Instagram Can Get Hacked Without You Knowing](https://spyboy.blog/2026/04/30/7-hidden-ways-your-instagram-can-get-hacked-without-you-knowing/)
 - [Can Hackers Control Your Phone Remotely? The Truth Revealed](https://spyboy.blog/2026/04/29/can-hackers-control-your-phone-remotely-the-truth-revealed/)
 - [This One Mistake Can Get You Hacked Instantly](https://spyboy.blog/2026/04/28/this-one-mistake-can-get-you-hacked-instantly/)
-- [How Hackers Steal Instagram Accounts in 2026 &lpar;And How to Stay Safe&rpar;](https://spyboy.blog/2026/04/27/how-hackers-steal-instagram-accounts-in-2026-and-how-to-stay-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
