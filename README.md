@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Think Twice Before Handing Over Your Phone &lpar;Even for a “Quick Call”&rpar;](https://spyboy.blog/2026/05/08/why-you-should-think-twice-before-handing-over-your-phone-even-for-a-quick-call/)
 - [Can a Hacker Track You Just by Sending a Photo? &lpar;IP Address Truth Explained&rpar;](https://spyboy.blog/2026/05/07/can-a-hacker-track-you-just-by-sending-a-photo-ip-address-truth-explained/)
 - [Can Hackers Really Watch You Through Your Laptop Camera?](https://spyboy.blog/2026/05/06/can-hackers-really-watch-you-through-your-laptop-camera/)
 - [WiFi Deauthentication Attack: How Hackers Kick You Off Your Own WiFi &lpar;and What to Do About It&rpar;](https://spyboy.blog/2026/05/05/wifi-deauthentication-attack-how-hackers-kick-you-off-your-own-wifi-and-what-to-do-about-it/)
 - [Top 10 Mobile Security Mistakes &lpar;That Can Get You Hacked Fast&rpar;](https://spyboy.blog/2026/05/04/top-10-mobile-security-mistakes-that-can-get-you-hacked-fast/)
-- [Why Everyone Should Use eSIM &lpar;Not Physical SIM&rpar; — And How It Can Protect You from Hacking](https://spyboy.blog/2026/05/03/why-everyone-should-use-esim-not-physical-sim-and-how-it-can-protect-you-from-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
