@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Chrome Extension Could Be Stealing Your Passwords — The Hidden Danger Inside Your Browser](https://spyboy.blog/2026/05/19/this-chrome-extension-could-be-stealing-your-passwords-the-hidden-danger-inside-your-browser/)
 - [Your Smart TV Might Be Spying on You — The Hidden Tracking Most People Never Notice](https://spyboy.blog/2026/05/18/your-smart-tv-might-be-spying-on-you-the-hidden-tracking-most-people-never-notice/)
 - [Public WiFi Is More Dangerous Than Most People Realize — Here’s How Hackers Exploit It](https://spyboy.blog/2026/05/17/public-wifi-is-more-dangerous-than-most-people-realize-heres-how-hackers-exploit-it/)
 - [Your Browser Knows More About You Than Your Friends — The Hidden World of Online Tracking](https://spyboy.blog/2026/05/16/your-browser-knows-more-about-you-than-your-friends-the-hidden-world-of-online-tracking/)
 - [This QR Code Could Empty Your Bank Account — The Rise of QR Scams](https://spyboy.blog/2026/05/15/this-qr-code-could-empty-your-bank-account-the-rise-of-qr-scams/)
-- [How Your Phone Predicts Ads: Behavioral Insights](https://spyboy.blog/2026/05/14/how-your-phone-predicts-ads-behavioral-insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
