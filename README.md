@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Webcam Might Not Be the Biggest Privacy Threat — Your Microphone Could Be Worse](https://spyboy.blog/2026/05/25/your-webcam-might-not-be-the-biggest-privacy-threat-your-microphone-could-be-worse/)
 - [Your Old Phone Could Become a Security Nightmare — Why Keeping It Around Can Be Dangerous](https://spyboy.blog/2026/05/24/your-old-phone-could-become-a-security-nightmare-why-keeping-it-around-can-be-dangerous/)
 - [Stop Using “Login With Google” Everywhere — The One Click That Gives Apps More Access Than You Think](https://spyboy.blog/2026/05/23/stop-using-login-with-google-everywhere-the-one-click-that-gives-apps-more-access-than-you-think/)
 - [Hackers Are Using Fake Job Offers to Infect People With Malware — Here’s How the Scam Works](https://spyboy.blog/2026/05/22/hackers-are-using-fake-job-offers-to-infect-people-with-malware-heres-how-the-scam-works/)
 - [Deepfake Scams Are Getting Terrifying — Soon You Won’t Know What’s Real](https://spyboy.blog/2026/05/21/deepfake-scams-are-getting-terrifying-soon-you-wont-know-whats-real/)
-- [Your Password Is Probably Already Leaked — Here’s What Hackers Do With It](https://spyboy.blog/2026/05/20/your-password-is-probably-already-leaked-heres-what-hackers-do-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
