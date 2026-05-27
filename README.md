@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Home WiFi Router Could Be the Weakest Security Link in Your House](https://spyboy.blog/2026/05/28/your-home-wifi-router-could-be-the-weakest-security-link-in-your-house/)
 - [Your Smartwatch Knows More About You Than Your Doctor — The Privacy Risks Nobody Talks About](https://spyboy.blog/2026/05/27/your-smartwatch-knows-more-about-you-than-your-doctor-the-privacy-risks-nobody-talks-about/)
 - [Hackers Love People Who Use Free VPNs — The Hidden Risks Nobody Talks About](https://spyboy.blog/2026/05/26/hackers-love-people-who-use-free-vpns-the-hidden-risks-nobody-talks-about/)
 - [Your Webcam Might Not Be the Biggest Privacy Threat — Your Microphone Could Be Worse](https://spyboy.blog/2026/05/25/your-webcam-might-not-be-the-biggest-privacy-threat-your-microphone-could-be-worse/)
 - [Your Old Phone Could Become a Security Nightmare — Why Keeping It Around Can Be Dangerous](https://spyboy.blog/2026/05/24/your-old-phone-could-become-a-security-nightmare-why-keeping-it-around-can-be-dangerous/)
-- [Stop Using “Login With Google” Everywhere — The One Click That Gives Apps More Access Than You Think](https://spyboy.blog/2026/05/23/stop-using-login-with-google-everywhere-the-one-click-that-gives-apps-more-access-than-you-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
