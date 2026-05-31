@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Scariest Hacker Tool Isn’t Malware Anymore — It’s AI](https://spyboy.blog/2026/06/01/the-scariest-hacker-tool-isnt-malware-anymore-its-ai/)
 - [Why “Delete” Doesn’t Actually Delete Your Data — The Digital Myth Most People Still Believe](https://spyboy.blog/2026/05/31/why-delete-doesnt-actually-delete-your-data-the-digital-myth-most-people-still-believe/)
 - [That Random USB Cable Could Hack Your Device — Why Charging Cables Aren’t Always “Just Cables”](https://spyboy.blog/2026/05/30/that-random-usb-cable-could-hack-your-device-why-charging-cables-arent-always-just-cables/)
 - [Your Bluetooth Is More Dangerous Than You Think — Why Leaving It On Could Create Hidden Risks](https://spyboy.blog/2026/05/29/your-bluetooth-is-more-dangerous-than-you-think-why-leaving-it-on-could-create-hidden-risks/)
 - [Your Home WiFi Router Could Be the Weakest Security Link in Your House](https://spyboy.blog/2026/05/28/your-home-wifi-router-could-be-the-weakest-security-link-in-your-house/)
-- [Your Smartwatch Knows More About You Than Your Doctor — The Privacy Risks Nobody Talks About](https://spyboy.blog/2026/05/27/your-smartwatch-knows-more-about-you-than-your-doctor-the-privacy-risks-nobody-talks-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
