@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your “Recently Deleted” Folder Is Lying to You — Why Deleted Photos May Still Exist Everywhere](https://spyboy.blog/2026/06/03/your-recently-deleted-folder-is-lying-to-you-why-deleted-photos-may-still-exist-everywhere/)
 - [Your Browser Autofill Could Be Giving Away More Than You Think — The Convenience Feature With Hidden Risks](https://spyboy.blog/2026/06/02/your-browser-autofill-could-be-giving-away-more-than-you-think-the-convenience-feature-with-hidden-risks/)
 - [The Scariest Hacker Tool Isn’t Malware Anymore — It’s AI](https://spyboy.blog/2026/06/01/the-scariest-hacker-tool-isnt-malware-anymore-its-ai/)
 - [Why “Delete” Doesn’t Actually Delete Your Data — The Digital Myth Most People Still Believe](https://spyboy.blog/2026/05/31/why-delete-doesnt-actually-delete-your-data-the-digital-myth-most-people-still-believe/)
 - [That Random USB Cable Could Hack Your Device — Why Charging Cables Aren’t Always “Just Cables”](https://spyboy.blog/2026/05/30/that-random-usb-cable-could-hack-your-device-why-charging-cables-arent-always-just-cables/)
-- [Your Bluetooth Is More Dangerous Than You Think — Why Leaving It On Could Create Hidden Risks](https://spyboy.blog/2026/05/29/your-bluetooth-is-more-dangerous-than-you-think-why-leaving-it-on-could-create-hidden-risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
