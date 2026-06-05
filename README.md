@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your ISP Is Watching More Than You Think — DNS Alone Won’t Hide You](https://spyboy.blog/2026/06/06/your-isp-is-watching-more-than-you-think-dns-alone-wont-hide-you/)
 - [Why Your Email Inbox Is a Hacker’s Favorite Target — And It’s More Dangerous Than Your Social Media](https://spyboy.blog/2026/06/05/why-your-email-inbox-is-a-hackers-favorite-target-and-its-more-dangerous-than-your-social-media/)
 - [Your Smart Doorbell Could Be Watching More Than Your Front Door — The Hidden Privacy Risks of Connected Cameras](https://spyboy.blog/2026/06/04/your-smart-doorbell-could-be-watching-more-than-your-front-door-the-hidden-privacy-risks-of-connected-cameras/)
 - [Your “Recently Deleted” Folder Is Lying to You — Why Deleted Photos May Still Exist Everywhere](https://spyboy.blog/2026/06/03/your-recently-deleted-folder-is-lying-to-you-why-deleted-photos-may-still-exist-everywhere/)
 - [Your Browser Autofill Could Be Giving Away More Than You Think — The Convenience Feature With Hidden Risks](https://spyboy.blog/2026/06/02/your-browser-autofill-could-be-giving-away-more-than-you-think-the-convenience-feature-with-hidden-risks/)
-- [The Scariest Hacker Tool Isn’t Malware Anymore — It’s AI](https://spyboy.blog/2026/06/01/the-scariest-hacker-tool-isnt-malware-anymore-its-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
