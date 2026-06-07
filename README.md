@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Share WiFi With Family, Friends, or Office Colleagues? Here’s How Much the Router Owner Can Really See](https://spyboy.blog/2026/06/08/do-you-share-wifi-with-family-friends-or-office-colleagues-heres-how-much-the-router-owner-can-really-see/)
 - [Your Phone Knows More About You Than You Think: What Digital Forensic Investigators See When They Get Your Device](https://spyboy.blog/2026/06/07/your-phone-knows-more-about-you-than-you-think-what-digital-forensic-investigators-see-when-they-get-your-device/)
 - [Your ISP Is Watching More Than You Think — DNS Alone Won’t Hide You](https://spyboy.blog/2026/06/06/your-isp-is-watching-more-than-you-think-dns-alone-wont-hide-you/)
 - [Why Your Email Inbox Is a Hacker’s Favorite Target — And It’s More Dangerous Than Your Social Media](https://spyboy.blog/2026/06/05/why-your-email-inbox-is-a-hackers-favorite-target-and-its-more-dangerous-than-your-social-media/)
 - [Your Smart Doorbell Could Be Watching More Than Your Front Door — The Hidden Privacy Risks of Connected Cameras](https://spyboy.blog/2026/06/04/your-smart-doorbell-could-be-watching-more-than-your-front-door-the-hidden-privacy-risks-of-connected-cameras/)
-- [Your “Recently Deleted” Folder Is Lying to You — Why Deleted Photos May Still Exist Everywhere](https://spyboy.blog/2026/06/03/your-recently-deleted-folder-is-lying-to-you-why-deleted-photos-may-still-exist-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
