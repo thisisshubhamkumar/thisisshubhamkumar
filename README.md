@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Screenshot Mistake Millions of People Make Every Day — And Why It Can Come Back to Haunt You](https://spyboy.blog/2026/06/12/the-screenshot-mistake-millions-of-people-make-every-day-and-why-it-can-come-back-to-haunt-you/)
 - [Stop Posting Boarding Pass Photos Online — You’re Sharing More Than You Think](https://spyboy.blog/2026/06/11/stop-posting-boarding-pass-photos-online-youre-sharing-more-than-you-think/)
 - [Your Digital Footprint Is Bigger Than You Think — Here’s How to Leave Less of It](https://spyboy.blog/2026/06/10/your-digital-footprint-is-bigger-than-you-think-heres-how-to-leave-less-of-it/)
 - [Your Next Scam Call Could Sound Exactly Like Your Mom — The Rise of AI Voice Cloning](https://spyboy.blog/2026/06/10/your-next-scam-call-could-sound-exactly-like-your-mom-the-rise-of-ai-voice-cloning/)
 - [🎮 Downloading Free Games, Movies &amp; Cracked Software? You Might Be Giving Hackers Your Entire PC](https://spyboy.blog/2026/06/09/%f0%9f%8e%ae-downloading-free-games-movies-cracked-software-you-might-be-giving-hackers-your-entire-pc/)
-- [Do You Share WiFi With Family, Friends, or Office Colleagues? Here’s How Much the Router Owner Can Really See](https://spyboy.blog/2026/06/08/do-you-share-wifi-with-family-friends-or-office-colleagues-heres-how-much-the-router-owner-can-really-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
