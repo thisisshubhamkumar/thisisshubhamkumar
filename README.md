@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of Passkeys Nobody Talks About — Are Passwords Really Dead?](https://spyboy.blog/2026/06/16/the-dark-side-of-passkeys-nobody-talks-about-are-passwords-really-dead/)
 - [Why Hackers Don’t Need to Hack You Anymore — Data Breaches Already Did the Work](https://spyboy.blog/2026/06/15/why-hackers-dont-need-to-hack-you-anymore-data-breaches-already-did-the-work/)
 - [The Hidden Cost of “Free” AI Tools — What Are You Really Paying With?](https://spyboy.blog/2026/06/14/the-hidden-cost-of-free-ai-tools-what-are-you-really-paying-with/)
 - [Someone Can Know You’re Home Without Hacking Anything — The Digital Clues You Leave Behind Every Day](https://spyboy.blog/2026/06/13/someone-can-know-youre-home-without-hacking-anything-the-digital-clues-you-leave-behind-every-day/)
 - [The Screenshot Mistake Millions of People Make Every Day — And Why It Can Come Back to Haunt You](https://spyboy.blog/2026/06/12/the-screenshot-mistake-millions-of-people-make-every-day-and-why-it-can-come-back-to-haunt-you/)
-- [Stop Posting Boarding Pass Photos Online — You’re Sharing More Than You Think](https://spyboy.blog/2026/06/11/stop-posting-boarding-pass-photos-online-youre-sharing-more-than-you-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
