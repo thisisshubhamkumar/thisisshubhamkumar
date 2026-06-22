@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Applying for Jobs Now — And Recruiters Can’t Always Tell the Difference](https://spyboy.blog/2026/06/22/ai-is-applying-for-jobs-now-and-recruiters-cant-always-tell-the-difference/)
 - [The Metadata Hidden in Your Photos Could Reveal More Than the Photo Itself](https://spyboy.blog/2026/06/21/the-metadata-hidden-in-your-photos-could-reveal-more-than-the-photo-itself/)
 - [Your Search History Knows More About You Than Your Best Friend](https://spyboy.blog/2026/06/20/your-search-history-knows-more-about-you-than-your-best-friend/)
 - [Why Hackers Don’t Break In Anymore — They Log In](https://spyboy.blog/2026/06/19/why-hackers-dont-break-in-anymore-they-log-in/)
 - [QR Codes Are the New Phishing Links — Why Scanning One Could Lead You Straight Into a Scam](https://spyboy.blog/2026/06/18/qr-codes-are-the-new-phishing-links-why-scanning-one-could-lead-you-straight-into-a-scam/)
-- [Why Your Old Email Account Could Be the Biggest Security Risk You Forgot About](https://spyboy.blog/2026/06/17/why-your-old-email-account-could-be-the-biggest-security-risk-you-forgot-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
