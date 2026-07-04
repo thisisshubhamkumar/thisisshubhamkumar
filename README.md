@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Windows Bug That Hid for 17 Years — How One Secret Exploit Changed Cybersecurity Forever](https://spyboy.blog/2026/07/05/the-windows-bug-that-hid-for-17-years-how-one-secret-exploit-changed-cybersecurity-forever/)
 - [The Hacker Who Stopped the Internet for 24 Hours — The Story Behind One of History’s Biggest DDoS Attacks](https://spyboy.blog/2026/07/04/the-hacker-who-stopped-the-internet-for-24-hours-the-story-behind-one-of-historys-biggest-ddos-attacks/)
 - [The Hacker Who Was Paid $2 Million Instead of Going to Jail](https://spyboy.blog/2026/07/03/the-hacker-who-was-paid-2-million-instead-of-going-to-jail/)
 - [The Teenager Who Hacked NASA… Without Stealing a Single Dollar](https://spyboy.blog/2026/07/02/the-teenager-who-hacked-nasa-without-stealing-a-single-dollar/)
 - [The Day 600,000 Devices Turned Against the Internet — The Story of the Mirai Botnet](https://spyboy.blog/2026/07/01/the-day-600000-devices-turned-against-the-internet-the-story-of-the-mirai-botnet/)
-- [How Much Is Your Identity Worth on the Dark Web? The Answer Might Surprise You](https://spyboy.blog/2026/06/30/how-much-is-your-identity-worth-on-the-dark-web-the-answer-might-surprise-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
