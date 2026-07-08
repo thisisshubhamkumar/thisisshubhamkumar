@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Day One Hack Destroyed Millions of Relationships — The Ashley Madison Breach](https://spyboy.blog/2026/07/09/the-day-one-hack-destroyed-millions-of-relationships-the-ashley-madison-breach/)
 - [The Bug Worth $100,000 — How Ethical Hackers Get Paid to Break Into Companies](https://spyboy.blog/2026/07/08/the-bug-worth-100000-how-ethical-hackers-get-paid-to-break-into-companies/)
 - [The Casino That Was Hacked Through a Fish Tank — The Bizarre Story That Changed IoT Security](https://spyboy.blog/2026/07/07/the-casino-that-was-hacked-through-a-fish-tank-the-bizarre-story-that-changed-iot-security/)
 - [The USB Drive That Changed Warfare Forever — Inside the Story of Stuxnet](https://spyboy.blog/2026/07/06/the-usb-drive-that-changed-warfare-forever-inside-the-story-of-stuxnet/)
 - [The Windows Bug That Hid for 17 Years — How One Secret Exploit Changed Cybersecurity Forever](https://spyboy.blog/2026/07/05/the-windows-bug-that-hid-for-17-years-how-one-secret-exploit-changed-cybersecurity-forever/)
-- [The Hacker Who Stopped the Internet for 24 Hours — The Story Behind One of History’s Biggest DDoS Attacks](https://spyboy.blog/2026/07/04/the-hacker-who-stopped-the-internet-for-24-hours-the-story-behind-one-of-historys-biggest-ddos-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
