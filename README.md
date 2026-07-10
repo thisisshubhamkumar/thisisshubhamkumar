@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Teenager Who Took Over Twitter — The Story Behind the $180,000 Bitcoin Scam That Shocked the World](https://spyboy.blog/2026/07/11/the-teenager-who-took-over-twitter-the-story-behind-the-180000-bitcoin-scam-that-shocked-the-world/)
 - [The Hack That Brought Hollywood to Its Knees — Inside the Sony Pictures Cyberattack](https://spyboy.blog/2026/07/10/the-hack-that-brought-hollywood-to-its-knees-inside-the-sony-pictures-cyberattack/)
 - [The Day One Hack Destroyed Millions of Relationships — The Ashley Madison Breach](https://spyboy.blog/2026/07/09/the-day-one-hack-destroyed-millions-of-relationships-the-ashley-madison-breach/)
 - [The Bug Worth $100,000 — How Ethical Hackers Get Paid to Break Into Companies](https://spyboy.blog/2026/07/08/the-bug-worth-100000-how-ethical-hackers-get-paid-to-break-into-companies/)
 - [The Casino That Was Hacked Through a Fish Tank — The Bizarre Story That Changed IoT Security](https://spyboy.blog/2026/07/07/the-casino-that-was-hacked-through-a-fish-tank-the-bizarre-story-that-changed-iot-security/)
-- [The USB Drive That Changed Warfare Forever — Inside the Story of Stuxnet](https://spyboy.blog/2026/07/06/the-usb-drive-that-changed-warfare-forever-inside-the-story-of-stuxnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
