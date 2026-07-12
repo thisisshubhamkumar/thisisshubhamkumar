@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hack That Hid in Plain Sight for Months — Inside the SolarWinds Cyber-Espionage Operation](https://spyboy.blog/2026/07/13/the-hack-that-hid-in-plain-sight-for-months-inside-the-solarwinds-cyber-espionage-operation/)
 - [The Hack That Stopped Fuel Across America — Inside the Colonial Pipeline Ransomware Attack](https://spyboy.blog/2026/07/12/the-hack-that-stopped-fuel-across-america-inside-the-colonial-pipeline-ransomware-attack/)
 - [The Teenager Who Took Over Twitter — The Story Behind the $180,000 Bitcoin Scam That Shocked the World](https://spyboy.blog/2026/07/11/the-teenager-who-took-over-twitter-the-story-behind-the-180000-bitcoin-scam-that-shocked-the-world/)
 - [The Hack That Brought Hollywood to Its Knees — Inside the Sony Pictures Cyberattack](https://spyboy.blog/2026/07/10/the-hack-that-brought-hollywood-to-its-knees-inside-the-sony-pictures-cyberattack/)
 - [The Day One Hack Destroyed Millions of Relationships — The Ashley Madison Breach](https://spyboy.blog/2026/07/09/the-day-one-hack-destroyed-millions-of-relationships-the-ashley-madison-breach/)
-- [The Bug Worth $100,000 — How Ethical Hackers Get Paid to Break Into Companies](https://spyboy.blog/2026/07/08/the-bug-worth-100000-how-ethical-hackers-get-paid-to-break-into-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
