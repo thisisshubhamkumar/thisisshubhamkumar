@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Google Read My Photos? The Truth About Google Drive Privacy](https://spyboy.blog/2026/07/18/can-google-read-my-photos-the-truth-about-google-drive-privacy/)
 - [Google Drive Flagged Illegal Videos. The Arrest Was Right. But What Does This Mean for Your Privacy?](https://spyboy.blog/2026/07/17/google-drive-flagged-illegal-videos-the-arrest-was-right-but-what-does-this-mean-for-your-privacy/)
 - [How I Expanded My Windows C: Drive Without Losing Data &lpar;No Reinstall Required&rpar;](https://spyboy.blog/2026/07/16/how-i-expanded-my-windows-c-drive-without-losing-data-no-reinstall-required/)
 - [How Hackers Hack Gmail Accounts &lpar;And the 8 Most Common Mistakes That Let Them In&rpar;](https://spyboy.blog/2026/07/15/how-hackers-hack-gmail-accounts-and-the-8-most-common-mistakes-that-let-them-in/)
 - [The Data Breach That Stole the Identity of 147 Million People — Inside the Equifax Disaster](https://spyboy.blog/2026/07/14/the-data-breach-that-stole-the-identity-of-147-million-people-inside-the-equifax-disaster/)
-- [The Hack That Hid in Plain Sight for Months — Inside the SolarWinds Cyber-Espionage Operation](https://spyboy.blog/2026/07/13/the-hack-that-hid-in-plain-sight-for-months-inside-the-solarwinds-cyber-espionage-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
