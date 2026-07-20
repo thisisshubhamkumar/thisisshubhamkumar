@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Hack Discord Accounts &lpar;And the Tricks They Use to Steal Servers&rpar;](https://spyboy.blog/2026/07/20/how-hackers-hack-discord-accounts-and-the-tricks-they-use-to-steal-servers/)
 - [STOP Uploading These 15 Files to Google Drive Without Encryption](https://spyboy.blog/2026/07/19/stop-uploading-these-15-files-to-google-drive-without-encryption/)
 - [Can Google Read My Photos? The Truth About Google Drive Privacy](https://spyboy.blog/2026/07/18/can-google-read-my-photos-the-truth-about-google-drive-privacy/)
 - [Google Drive Flagged Illegal Videos. The Arrest Was Right. But What Does This Mean for Your Privacy?](https://spyboy.blog/2026/07/17/google-drive-flagged-illegal-videos-the-arrest-was-right-but-what-does-this-mean-for-your-privacy/)
 - [How I Expanded My Windows C: Drive Without Losing Data &lpar;No Reinstall Required&rpar;](https://spyboy.blog/2026/07/16/how-i-expanded-my-windows-c-drive-without-losing-data-no-reinstall-required/)
-- [How Hackers Hack Gmail Accounts &lpar;And the 8 Most Common Mistakes That Let Them In&rpar;](https://spyboy.blog/2026/07/15/how-hackers-hack-gmail-accounts-and-the-8-most-common-mistakes-that-let-them-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
