@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Hackers Hack Amazon Accounts &lpar;And the 10 Tricks They Use to Steal Orders, Gift Cards &amp; Your Identity&rpar;](https://spyboy.blog/2026/07/24/how-hackers-hack-amazon-accounts-and-the-10-tricks-they-use-to-steal-orders-gift-cards-your-identity/)
 - [How Hackers Hack PayPal Accounts &lpar;And the 10 Scams That Can Empty Your Wallet&rpar;](https://spyboy.blog/2026/07/23/how-hackers-hack-paypal-accounts-and-the-10-scams-that-can-empty-your-wallet/)
 - [How Hackers Hack Snapchat Accounts &lpar;And the 9 Tricks They Use to Steal Them&rpar;](https://spyboy.blog/2026/07/22/how-hackers-hack-snapchat-accounts-and-the-9-tricks-they-use-to-steal-them/)
 - [How Hackers Hack Steam Accounts &lpar;And How to Keep Your Games Safe&rpar;](https://spyboy.blog/2026/07/21/how-hackers-hack-steam-accounts-and-how-to-keep-your-games-safe/)
 - [How Hackers Hack Discord Accounts &lpar;And the Tricks They Use to Steal Servers&rpar;](https://spyboy.blog/2026/07/20/how-hackers-hack-discord-accounts-and-the-tricks-they-use-to-steal-servers/)
-- [STOP Uploading These 15 Files to Google Drive Without Encryption](https://spyboy.blog/2026/07/19/stop-uploading-these-15-files-to-google-drive-without-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
