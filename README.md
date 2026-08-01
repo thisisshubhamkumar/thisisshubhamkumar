@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Hackers Can See If They Hack Your Phone — Your Smartphone May Reveal More Than You Think](https://spyboy.blog/2026/08/01/what-hackers-can-see-if-they-hack-your-phone-your-smartphone-may-reveal-more-than-you-think/)
 - [Your Google Account Is Secretly Keeping a Diary of Your Life — Check It Before Someone Else Does](https://spyboy.blog/2026/07/31/your-google-account-is-secretly-keeping-a-diary-of-your-life-check-it-before-someone-else-does/)
 - [How Hackers Hack Telegram Accounts &lpar;And the 10 Scams Every User Should Know&rpar;](https://spyboy.blog/2026/07/30/how-hackers-hack-telegram-accounts-and-the-10-scams-every-user-should-know/)
 - [How Hackers Hack Google Accounts &lpar;And Why One Stolen Login Can Expose Your Entire Digital Life&rpar;](https://spyboy.blog/2026/07/29/how-hackers-hack-google-accounts-and-why-one-stolen-login-can-expose-your-entire-digital-life/)
 - [How Hackers Hack LinkedIn Accounts &lpar;And Why Your Next Job Offer Could Be a Scam&rpar;](https://spyboy.blog/2026/07/28/how-hackers-hack-linkedin-accounts-and-why-your-next-job-offer-could-be-a-scam/)
-- [How Hackers Hack Roblox Accounts &lpar;And the Scams Every Player Should Know&rpar;](https://spyboy.blog/2026/07/27/how-hackers-hack-roblox-accounts-and-the-scams-every-player-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
