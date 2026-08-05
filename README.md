@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Photos Are Snitching on You: The Hidden Metadata That Can Reveal Where You Live](https://spyboy.blog/2026/08/05/your-photos-are-snitching-on-you-the-hidden-metadata-that-can-reveal-where-you-live/)
 - [Incognito Mode Is NOT Anonymous: Here’s Who Can Still See What You Do Online](https://spyboy.blog/2026/08/04/incognito-mode-is-not-anonymous-heres-who-can-still-see-what-you-do-online/)
 - [Can Police Recover Deleted WhatsApp Messages? What “Delete for Everyone” Really Deletes](https://spyboy.blog/2026/08/03/can-police-recover-deleted-whatsapp-messages-what-delete-for-everyone-really-deletes/)
 - [What Happens When Police Seize Your Phone? Inside a Digital Forensics Investigation](https://spyboy.blog/2026/08/02/what-happens-when-police-seize-your-phone-inside-a-digital-forensics-investigation/)
 - [What Hackers Can See If They Hack Your Phone — Your Smartphone May Reveal More Than You Think](https://spyboy.blog/2026/08/01/what-hackers-can-see-if-they-hack-your-phone-your-smartphone-may-reveal-more-than-you-think/)
-- [Your Google Account Is Secretly Keeping a Diary of Your Life — Check It Before Someone Else Does](https://spyboy.blog/2026/07/31/your-google-account-is-secretly-keeping-a-diary-of-your-life-check-it-before-someone-else-does/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
