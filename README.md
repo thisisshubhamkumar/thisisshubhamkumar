@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Smartwatch Is Recording Your Entire Life: Everything Your Wearable Knows About You](https://spyboy.blog/2026/08/12/your-smartwatch-is-recording-your-entire-life-everything-your-wearable-knows-about-you/)
 - [Your Car Knows Where You Live: Everything Modern Vehicles Know About You](https://spyboy.blog/2026/08/11/your-car-knows-where-you-live-everything-modern-vehicles-know-about-you/)
 - [Your Smart TV Is Watching More Than You Think: Everything It Knows About You](https://spyboy.blog/2026/08/10/your-smart-tv-is-watching-more-than-you-think-everything-it-knows-about-you/)
 - [I Started With Just an Email Address… Here’s How Much of My Digital Life Was Already Public](https://spyboy.blog/2026/08/09/i-started-with-just-an-email-address-heres-how-much-of-my-digital-life-was-already-public/)
 - [Your PDF Might Be Leaking More Than You Think: The Hidden Metadata Inside Documents](https://spyboy.blog/2026/08/08/your-pdf-might-be-leaking-more-than-you-think-the-hidden-metadata-inside-documents/)
-- [Your Wi-Fi Router Knows More About You Than You Think &lpar;Here’s Everything It Can See&rpar;](https://spyboy.blog/2026/08/07/your-wi-fi-router-knows-more-about-you-than-you-think-heres-everything-it-can-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
