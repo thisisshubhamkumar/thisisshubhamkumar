@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built Spyboy CyberSuite: A Browser Extension for Web Security, Recon &amp; OSINT](https://spyboy.blog/2026/08/13/i-built-spyboy-cybersuite-a-browser-extension-for-web-security-recon-osint/)
 - [How Websites Know Your Real Location: The Geo-Verification Stack](https://spyboy.blog/2026/08/13/geo-verification-tech-explained/)
 - [Cyber Fraud in India: The First 30 Minutes Can Decide Whether You Get Your Money Back](https://spyboy.blog/2026/08/13/cyber-fraud-in-india-the-first-30-minutes-can-decide-whether-you-get-your-money-back/)
 - [Delete Doesn’t Mean Delete: 25 Things You Think You Deleted That May Still Exist Somewhere](https://spyboy.blog/2026/08/13/delete-doesnt-mean-delete-25-things-you-think-you-deleted-that-may-still-exist-somewhere/)
 - [What Your Fitness Tracker Data Reveals About You](https://spyboy.blog/2026/08/12/fitness-tracker-data-privacy/)
-- [Your Smartwatch Is Recording Your Entire Life: Everything Your Wearable Knows About You](https://spyboy.blog/2026/08/12/your-smartwatch-is-recording-your-entire-life-everything-your-wearable-knows-about-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
