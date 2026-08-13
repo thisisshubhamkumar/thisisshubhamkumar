@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Fraud in India: The First 30 Minutes Can Decide Whether You Get Your Money Back](https://spyboy.blog/2026/08/13/cyber-fraud-in-india-the-first-30-minutes-can-decide-whether-you-get-your-money-back/)
 - [Delete Doesn’t Mean Delete: 25 Things You Think You Deleted That May Still Exist Somewhere](https://spyboy.blog/2026/08/13/delete-doesnt-mean-delete-25-things-you-think-you-deleted-that-may-still-exist-somewhere/)
 - [What Your Fitness Tracker Data Reveals About You](https://spyboy.blog/2026/08/12/fitness-tracker-data-privacy/)
 - [Your Smartwatch Is Recording Your Entire Life: Everything Your Wearable Knows About You](https://spyboy.blog/2026/08/12/your-smartwatch-is-recording-your-entire-life-everything-your-wearable-knows-about-you/)
 - [Your Car Knows Where You Live: Everything Modern Vehicles Know About You](https://spyboy.blog/2026/08/11/your-car-knows-where-you-live-everything-modern-vehicles-know-about-you/)
-- [Your Smart TV Is Watching More Than You Think: Everything It Knows About You](https://spyboy.blog/2026/08/10/your-smart-tv-is-watching-more-than-you-think-everything-it-knows-about-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
