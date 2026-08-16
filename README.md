@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Blackmail, Sextortion &amp; Nude Photo Scams in India: What to Do If Someone Is Threatening to Leak Your Photos](https://spyboy.blog/2026/08/16/online-blackmail-in-india-what-to-do-if-someone-has-your-nudes-mms-or-deepfake/)
 - [50 Privacy Mistakes You’re Probably Making Every Day &lpar;And How to Fix Them&rpar;](https://spyboy.blog/2026/08/15/50-privacy-mistakes-youre-probably-making-every-day-and-how-to-fix-them/)
 - [I Googled Myself After 10 Years… I Was Horrified by What I Found](https://spyboy.blog/2026/08/14/i-googled-myself-after-10-years-i-was-horrified-by-what-i-found/)
 - [I Built Spyboy CyberSuite: A Browser Extension for Web Security, Recon &amp; OSINT](https://spyboy.blog/2026/08/13/i-built-spyboy-cybersuite-a-browser-extension-for-web-security-recon-osint/)
 - [How Websites Know Your Real Location: The Geo-Verification Stack](https://spyboy.blog/2026/08/13/geo-verification-tech-explained/)
-- [Cyber Fraud in India: The First 30 Minutes Can Decide Whether You Get Your Money Back](https://spyboy.blog/2026/08/13/cyber-fraud-in-india-the-first-30-minutes-can-decide-whether-you-get-your-money-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
