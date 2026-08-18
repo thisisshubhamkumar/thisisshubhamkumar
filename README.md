@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Infostealer Malware: The Silent Malware Stealing Your Passwords, Cookies and Crypto](https://spyboy.blog/2026/08/18/infostealer-malware-can-silently-steal-browser-passwords-cookies-session-tokens-autofill-data-crypto-wallets-and-sensitive-files-learn-how-infostealers-work-how-they-infect-computers-warning-signs-wha/)
 - [Dating App Scam in India: Tinder, Bumble &amp; Fake Dates That End With ₹10,000–₹1 Lakh Restaurant Bills](https://spyboy.blog/2026/08/17/dating-app-scam-in-india-tinder-bumble-fake-date-restaurant-scam-explained/)
 - [Online Blackmail, Sextortion &amp; Nude Photo Scams in India: What to Do If Someone Is Threatening to Leak Your Photos](https://spyboy.blog/2026/08/16/online-blackmail-in-india-what-to-do-if-someone-has-your-nudes-mms-or-deepfake/)
 - [50 Privacy Mistakes You’re Probably Making Every Day &lpar;And How to Fix Them&rpar;](https://spyboy.blog/2026/08/15/50-privacy-mistakes-youre-probably-making-every-day-and-how-to-fix-them/)
 - [I Googled Myself After 10 Years… I Was Horrified by What I Found](https://spyboy.blog/2026/08/14/i-googled-myself-after-10-years-i-was-horrified-by-what-i-found/)
-- [I Built Spyboy CyberSuite: A Browser Extension for Web Security, Recon &amp; OSINT](https://spyboy.blog/2026/08/13/i-built-spyboy-cybersuite-a-browser-extension-for-web-security-recon-osint/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
