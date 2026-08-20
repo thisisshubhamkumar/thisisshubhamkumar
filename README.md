@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can You Still Trust a Video Call? How Real-Time Deepfakes Are Changing Online Scams](https://spyboy.blog/2026/08/20/can-you-still-trust-a-video-call-how-real-time-deepfakes-are-changing-online-scams/)
 - [Someone Can Steal Your Login Without Stealing Your Password: How Session Cookie Theft Works](https://spyboy.blog/2026/08/19/someone-can-steal-your-login-without-stealing-your-password-how-session-cookie-theft-works/)
 - [Infostealer Malware: The Silent Malware Stealing Your Passwords, Cookies and Crypto](https://spyboy.blog/2026/08/18/infostealer-malware-can-silently-steal-browser-passwords-cookies-session-tokens-autofill-data-crypto-wallets-and-sensitive-files-learn-how-infostealers-work-how-they-infect-computers-warning-signs-wha/)
 - [Dating App Scam in India: Tinder, Bumble &amp; Fake Dates That End With ₹10,000–₹1 Lakh Restaurant Bills](https://spyboy.blog/2026/08/17/dating-app-scam-in-india-tinder-bumble-fake-date-restaurant-scam-explained/)
 - [Online Blackmail, Sextortion &amp; Nude Photo Scams in India: What to Do If Someone Is Threatening to Leak Your Photos](https://spyboy.blog/2026/08/16/online-blackmail-in-india-what-to-do-if-someone-has-your-nudes-mms-or-deepfake/)
-- [50 Privacy Mistakes You’re Probably Making Every Day &lpar;And How to Fix Them&rpar;](https://spyboy.blog/2026/08/15/50-privacy-mistakes-youre-probably-making-every-day-and-how-to-fix-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
