@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Old Phone Number Can Become Someone Else’s Login Key](https://spyboy.blog/2026/08/22/your-old-phone-number-can-become-someone-elses-login-key/)
 - [What Happens When You Give an AI Agent Access to Your Computer?](https://spyboy.blog/2026/08/21/what-happens-when-you-give-an-ai-agent-access-to-your-computer/)
 - [Can You Still Trust a Video Call? How Real-Time Deepfakes Are Changing Online Scams](https://spyboy.blog/2026/08/20/can-you-still-trust-a-video-call-how-real-time-deepfakes-are-changing-online-scams/)
 - [Someone Can Steal Your Login Without Stealing Your Password: How Session Cookie Theft Works](https://spyboy.blog/2026/08/19/someone-can-steal-your-login-without-stealing-your-password-how-session-cookie-theft-works/)
 - [Infostealer Malware: The Silent Malware Stealing Your Passwords, Cookies and Crypto](https://spyboy.blog/2026/08/18/infostealer-malware-can-silently-steal-browser-passwords-cookies-session-tokens-autofill-data-crypto-wallets-and-sensitive-files-learn-how-infostealers-work-how-they-infect-computers-warning-signs-wha/)
-- [Dating App Scam in India: Tinder, Bumble &amp; Fake Dates That End With ₹10,000–₹1 Lakh Restaurant Bills](https://spyboy.blog/2026/08/17/dating-app-scam-in-india-tinder-bumble-fake-date-restaurant-scam-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
