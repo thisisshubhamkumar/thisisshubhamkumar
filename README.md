@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Webcam and Microphone May Be Listening When You Think They’re Off](https://spyboy.blog/2026/08/31/your-webcam-and-microphone-may-be-listening-when-you-think-theyre-off/)
 - [Your Phone Can Be Stolen in Seconds — What Thieves Can Do After They Get It and How to Protect Yourself](https://spyboy.blog/2026/08/30/your-phone-can-be-stolen-in-seconds-what-thieves-can-do-after-they-get-it-and-how-to-protect-yourself/)
 - [Your Browser Can Send You Fake Virus Alerts — How Malicious Notifications Trick People](https://spyboy.blog/2026/08/29/your-browser-can-send-you-fake-virus-alerts-how-malicious-notifications-trick-people/)
 - [Your Calendar Can Be a Phishing Trap — How Hackers Abuse Meeting Invites to Target You](https://spyboy.blog/2026/08/28/your-calendar-can-be-a-phishing-trap-how-hackers-abuse-meeting-invites-to-target-you/)
 - [Your Car Is Now a Computer — What Hackers Can Learn From Your Connected Car](https://spyboy.blog/2026/08/27/your-car-is-now-a-computer-what-hackers-can-learn-from-your-connected-car/)
-- [Never Plug Your Phone Into a Random USB Charger — The Hidden Security Risk of Public Charging Stations](https://spyboy.blog/2026/08/26/never-plug-your-phone-into-a-random-usb-charger-the-hidden-security-risk-of-public-charging-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
