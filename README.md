@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Deleted Photos Aren’t Always Gone — What Happens to Files After You Delete Them?](https://spyboy.blog/2026/09/01/your-deleted-photos-arent-always-gone-what-happens-to-files-after-you-delete-them/)
 - [How to Take Down a Scam or Phishing Website: A Practical Guide to Reporting Malicious Sites](https://spyboy.blog/2026/09/01/how-to-take-down-a-scam-or-phishing-website-a-practical-guide-to-reporting-malicious-sites/)
 - [Your Webcam and Microphone May Be Listening When You Think They’re Off](https://spyboy.blog/2026/08/31/your-webcam-and-microphone-may-be-listening-when-you-think-theyre-off/)
 - [Your Phone Can Be Stolen in Seconds — What Thieves Can Do After They Get It and How to Protect Yourself](https://spyboy.blog/2026/08/30/your-phone-can-be-stolen-in-seconds-what-thieves-can-do-after-they-get-it-and-how-to-protect-yourself/)
 - [Your Browser Can Send You Fake Virus Alerts — How Malicious Notifications Trick People](https://spyboy.blog/2026/08/29/your-browser-can-send-you-fake-virus-alerts-how-malicious-notifications-trick-people/)
-- [Your Calendar Can Be a Phishing Trap — How Hackers Abuse Meeting Invites to Target You](https://spyboy.blog/2026/08/28/your-calendar-can-be-a-phishing-trap-how-hackers-abuse-meeting-invites-to-target-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
