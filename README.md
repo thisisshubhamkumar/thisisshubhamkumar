@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Smartwatch, TV &amp; Home Devices Are Quietly Building a Digital Profile of You](https://spyboy.blog/2026/09/02/your-smartwatch-tv-home-devices-are-quietly-building-a-digital-profile-of-you/)
 - [How to Bring SQL Server Databases Out of Emergency Mode without Data Loss](https://spyboy.blog/2026/09/02/bring-sql-server-database-out-of-emergency-mode-without-data-loss/)
 - [Your Deleted Photos Aren’t Always Gone — What Happens to Files After You Delete Them?](https://spyboy.blog/2026/09/01/your-deleted-photos-arent-always-gone-what-happens-to-files-after-you-delete-them/)
 - [How to Take Down a Scam or Phishing Website: A Practical Guide to Reporting Malicious Sites](https://spyboy.blog/2026/09/01/how-to-take-down-a-scam-or-phishing-website-a-practical-guide-to-reporting-malicious-sites/)
 - [Your Webcam and Microphone May Be Listening When You Think They’re Off](https://spyboy.blog/2026/08/31/your-webcam-and-microphone-may-be-listening-when-you-think-theyre-off/)
-- [Your Phone Can Be Stolen in Seconds — What Thieves Can Do After They Get It and How to Protect Yourself](https://spyboy.blog/2026/08/30/your-phone-can-be-stolen-in-seconds-what-thieves-can-do-after-they-get-it-and-how-to-protect-yourself/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
