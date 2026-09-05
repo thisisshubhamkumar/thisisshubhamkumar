@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Wi-Fi Is Not Just Internet — How Hackers Can Attack Your Home Network and What You Should Lock Down](https://spyboy.blog/2026/09/05/your-wi-fi-is-not-just-internet-how-hackers-can-attack-your-home-network-and-what-you-should-lock-down/)
 - [The QR Code on the Table Could Be a Scam — How QR Phishing Can Steal Your Money and Accounts](https://spyboy.blog/2026/09/04/the-qr-code-on-the-table-could-be-a-scam-how-qr-phishing-can-steal-your-money-and-accounts/)
 - [Your SIM Card Is a Bigger Security Risk Than You Think — SIM Swap, Number Hijacking &amp; How to Protect Your Phone Number](https://spyboy.blog/2026/09/03/your-sim-card-is-a-bigger-security-risk-than-you-think-sim-swap-number-hijacking-how-to-protect-your-phone-number/)
 - [Your Smartwatch, TV &amp; Home Devices Are Quietly Building a Digital Profile of You](https://spyboy.blog/2026/09/02/your-smartwatch-tv-home-devices-are-quietly-building-a-digital-profile-of-you/)
 - [How to Bring SQL Server Databases Out of Emergency Mode without Data Loss](https://spyboy.blog/2026/09/02/bring-sql-server-database-out-of-emergency-mode-without-data-loss/)
-- [Your Deleted Photos Aren’t Always Gone — What Happens to Files After You Delete Them?](https://spyboy.blog/2026/09/01/your-deleted-photos-arent-always-gone-what-happens-to-files-after-you-delete-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
