@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Never Plug a Random USB Drive Into Your Computer — How USB Attacks Can Infect Your PC, Steal Data &amp; Destroy Your Security](https://spyboy.blog/2026/09/09/usb-security-can-a-usb-drive-hack-your-computer-12-usb-attacks-you-need-to-know/)
 - [Your Email Is the Master Key to Your Digital Life — How One Compromised Inbox Can Lead to Everything](https://spyboy.blog/2026/09/08/what-happens-if-your-email-gets-hacked-how-hackers-take-over-your-accounts-how-to-protect-yourself/)
 - [Your Bluetooth Is On All Day — What Attackers Can Actually Do With It and How to Secure It](https://spyboy.blog/2026/09/07/your-bluetooth-is-on-all-day-what-attackers-can-actually-do-with-it-and-how-to-secure-it/)
 - [Your Google Maps History Can Reveal Your Life — What Location Data Says About You](https://spyboy.blog/2026/09/06/your-google-maps-history-can-reveal-your-life-what-location-data-says-about-you/)
 - [Your Wi-Fi Is Not Just Internet — How Hackers Can Attack Your Home Network and What You Should Lock Down](https://spyboy.blog/2026/09/05/your-wi-fi-is-not-just-internet-how-hackers-can-attack-your-home-network-and-what-you-should-lock-down/)
-- [The QR Code on the Table Could Be a Scam — How QR Phishing Can Steal Your Money and Accounts](https://spyboy.blog/2026/09/04/the-qr-code-on-the-table-could-be-a-scam-how-qr-phishing-can-steal-your-money-and-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
