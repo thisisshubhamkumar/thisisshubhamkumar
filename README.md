@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You Scan a QR Code and Your Phone Opens the Door — How QR Code Scams and Quishing Work](https://spyboy.blog/2026/09/11/qr-code-scams-explained-how-hackers-use-fake-qr-codes-to-steal-money-passwords-data/)
 - [Your Phone Number Is Everywhere — How SIM Swaps, OTP Theft &amp; Number Hijacking Can Take Over Your Accounts](https://spyboy.blog/2026/09/10/sim-swap-fraud-explained-how-criminals-hijack-your-phone-number-how-to-protect-yourself/)
 - [Never Plug a Random USB Drive Into Your Computer — How USB Attacks Can Infect Your PC, Steal Data &amp; Destroy Your Security](https://spyboy.blog/2026/09/09/usb-security-can-a-usb-drive-hack-your-computer-12-usb-attacks-you-need-to-know/)
 - [Your Email Is the Master Key to Your Digital Life — How One Compromised Inbox Can Lead to Everything](https://spyboy.blog/2026/09/08/what-happens-if-your-email-gets-hacked-how-hackers-take-over-your-accounts-how-to-protect-yourself/)
 - [Your Bluetooth Is On All Day — What Attackers Can Actually Do With It and How to Secure It](https://spyboy.blog/2026/09/07/your-bluetooth-is-on-all-day-what-attackers-can-actually-do-with-it-and-how-to-secure-it/)
-- [Your Google Maps History Can Reveal Your Life — What Location Data Says About You](https://spyboy.blog/2026/09/06/your-google-maps-history-can-reveal-your-life-what-location-data-says-about-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
