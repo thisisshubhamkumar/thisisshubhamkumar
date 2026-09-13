@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Username Is All You Need to Start — How OSINT Investigators Trace a Digital Identity](https://spyboy.blog/2026/09/14/username-osint-how-to-find-someones-public-digital-footprint-from-one-username/)
 - [Recon Is Not Scanning: How Bug Bounty Hunters Build a Complete Attack-Surface Map Before Testing Anything](https://spyboy.blog/2026/09/13/recon-is-not-scanning-how-bug-bounty-hunters-build-a-complete-attack-surface-map-before-testing-anything/)
 - [Your Smart TV Is Watching More Than You Think — How TVs, Streaming Devices &amp; Smart Homes Collect Your Data](https://spyboy.blog/2026/09/12/smart-tv-privacy-what-your-smart-tv-knows-about-you-how-to-stop-tracking/)
 - [You Scan a QR Code and Your Phone Opens the Door — How QR Code Scams and Quishing Work](https://spyboy.blog/2026/09/11/qr-code-scams-explained-how-hackers-use-fake-qr-codes-to-steal-money-passwords-data/)
 - [Your Phone Number Is Everywhere — How SIM Swaps, OTP Theft &amp; Number Hijacking Can Take Over Your Accounts](https://spyboy.blog/2026/09/10/sim-swap-fraud-explained-how-criminals-hijack-your-phone-number-how-to-protect-yourself/)
-- [Never Plug a Random USB Drive Into Your Computer — How USB Attacks Can Infect Your PC, Steal Data &amp; Destroy Your Security](https://spyboy.blog/2026/09/09/usb-security-can-a-usb-drive-hack-your-computer-12-usb-attacks-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
