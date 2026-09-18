@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Subdomain Takeover: How a Forgotten Subdomain Can Become a Hacker’s Entry Point](https://spyboy.blog/2026/09/18/subdomain-takeover-how-a-forgotten-subdomain-can-become-a-hackers-entry-point/)
 - [JWT Security: The Tiny Token That Can Give an Attacker Access to Your Entire Account](https://spyboy.blog/2026/09/17/jwt-security-the-tiny-token-that-can-give-an-attacker-access-to-your-entire-account/)
 - [HTTP Request Smuggling: The Hidden Attack That Can Slip Past Your Web Server and WAF](https://spyboy.blog/2026/09/16/http-request-smuggling-the-hidden-attack-that-can-slip-past-your-web-server-and-waf/)
 - [Web Cache Deception: How Hackers Can Trick a Website Into Caching Your Private Data](https://spyboy.blog/2026/09/15/web-cache-deception-how-hackers-can-trick-a-website-into-caching-your-private-data/)
 - [One Username Is All You Need to Start — How OSINT Investigators Trace a Digital Identity](https://spyboy.blog/2026/09/14/username-osint-how-to-find-someones-public-digital-footprint-from-one-username/)
-- [Recon Is Not Scanning: How Bug Bounty Hunters Build a Complete Attack-Surface Map Before Testing Anything](https://spyboy.blog/2026/09/13/recon-is-not-scanning-how-bug-bounty-hunters-build-a-complete-attack-surface-map-before-testing-anything/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
