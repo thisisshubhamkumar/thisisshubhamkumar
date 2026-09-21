@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OAuth Redirect URI Vulnerabilities: How a Small Validation Mistake Can Leak Authentication Tokens](https://spyboy.blog/2026/09/21/oauth-redirect-uri-vulnerabilities-how-a-small-validation-mistake-can-leak-authentication-tokens/)
 - [Host Header Injection: How a Single HTTP Header Can Break Password Resets, Passwordless Login &amp; Security Controls](https://spyboy.blog/2026/09/20/host-header-injection-how-a-single-http-header-can-break-password-resets-passwordless-login-security-controls/)
 - [DNS Rebinding: How a Website Can Be Tricked Into Talking to Your Internal Network](https://spyboy.blog/2026/09/19/dns-rebinding-how-a-website-can-be-tricked-into-talking-to-your-internal-network/)
 - [Subdomain Takeover: How a Forgotten Subdomain Can Become a Hacker’s Entry Point](https://spyboy.blog/2026/09/18/subdomain-takeover-how-a-forgotten-subdomain-can-become-a-hackers-entry-point/)
 - [JWT Security: The Tiny Token That Can Give an Attacker Access to Your Entire Account](https://spyboy.blog/2026/09/17/jwt-security-the-tiny-token-that-can-give-an-attacker-access-to-your-entire-account/)
-- [HTTP Request Smuggling: The Hidden Attack That Can Slip Past Your Web Server and WAF](https://spyboy.blog/2026/09/16/http-request-smuggling-the-hidden-attack-that-can-slip-past-your-web-server-and-waf/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
