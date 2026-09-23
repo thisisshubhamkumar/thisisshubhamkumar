@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Hacking Lab: 20 Safe BAT, CMD, VBS &amp; Registry Tricks Every Cybersecurity Student Should Know](https://spyboy.blog/2026/09/23/windows-hacking-lab-20-safe-bat-cmd-vbs-registry-tricks-every-cybersecurity-student-should-know/)
 - [Server-Side Template Injection &lpar;SSTI&rpar;: How a Simple Template Bug Can Turn Into Server-Side Code Execution](https://spyboy.blog/2026/09/22/server-side-template-injection-ssti-how-a-simple-template-bug-can-turn-into-server-side-code-execution/)
 - [OAuth Redirect URI Vulnerabilities: How a Small Validation Mistake Can Leak Authentication Tokens](https://spyboy.blog/2026/09/21/oauth-redirect-uri-vulnerabilities-how-a-small-validation-mistake-can-leak-authentication-tokens/)
 - [Host Header Injection: How a Single HTTP Header Can Break Password Resets, Passwordless Login &amp; Security Controls](https://spyboy.blog/2026/09/20/host-header-injection-how-a-single-http-header-can-break-password-resets-passwordless-login-security-controls/)
 - [DNS Rebinding: How a Website Can Be Tricked Into Talking to Your Internal Network](https://spyboy.blog/2026/09/19/dns-rebinding-how-a-website-can-be-tricked-into-talking-to-your-internal-network/)
-- [Subdomain Takeover: How a Forgotten Subdomain Can Become a Hacker’s Entry Point](https://spyboy.blog/2026/09/18/subdomain-takeover-how-a-forgotten-subdomain-can-become-a-hackers-entry-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
