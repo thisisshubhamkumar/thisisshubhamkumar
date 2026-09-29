@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Scheduled Tasks Explained: How Attackers Abuse a Built-In Windows Feature](https://spyboy.blog/2026/09/29/windows-scheduled-tasks-explained-how-attackers-abuse-a-built-in-windows-feature/)
 - [Windows Named Pipes Explained: The Hidden IPC Mechanism Hackers Can Abuse](https://spyboy.blog/2026/09/28/windows-named-pipes-explained-the-hidden-ipc-mechanism-hackers-can-abuse/)
 - [DLL Hijacking Explained: How Windows Can Load the Wrong DLL and How Hackers Abuse It](https://spyboy.blog/2026/09/27/dll-hijacking-explained-how-windows-can-load-the-wrong-dll-and-how-hackers-abuse-it/)
 - [Windows Can Hide Files Inside Other Files: NTFS Alternate Data Streams &lpar;ADS&rpar; Explained](https://spyboy.blog/2026/09/26/windows-can-hide-files-inside-other-files-ntfs-alternate-data-streams-ads-explained/)
 - [WMI Hacking Explained: How Hackers Use Windows Management Instrumentation &amp; How to Detect It](https://spyboy.blog/2026/09/25/wmi-hacking-explained-how-hackers-use-windows-management-instrumentation-how-to-detect-it/)
-- [Windows Event Viewer Hacking: 15 Logs &amp; Commands Every Hacker and Cybersecurity Student Should Know](https://spyboy.blog/2026/09/24/windows-event-viewer-hacking-15-logs-commands-every-hacker-and-cybersecurity-student-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
