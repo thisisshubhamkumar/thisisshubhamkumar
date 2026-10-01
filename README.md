@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Constrained Language Mode Explained: How Windows Can Restrict What PowerShell Is Allowed to Do](https://spyboy.blog/2026/10/01/powershell-constrained-language-mode-explained-how-windows-can-restrict-what-powershell-is-allowed-to-do/)
 - [Windows Services Explained: How Attackers Abuse Background Services for Persistence and Privilege](https://spyboy.blog/2026/09/30/windows-services-explained-how-attackers-abuse-background-services-for-persistence-and-privilege/)
 - [Windows Scheduled Tasks Explained: How Attackers Abuse a Built-In Windows Feature](https://spyboy.blog/2026/09/29/windows-scheduled-tasks-explained-how-attackers-abuse-a-built-in-windows-feature/)
 - [Windows Named Pipes Explained: The Hidden IPC Mechanism Hackers Can Abuse](https://spyboy.blog/2026/09/28/windows-named-pipes-explained-the-hidden-ipc-mechanism-hackers-can-abuse/)
 - [DLL Hijacking Explained: How Windows Can Load the Wrong DLL and How Hackers Abuse It](https://spyboy.blog/2026/09/27/dll-hijacking-explained-how-windows-can-load-the-wrong-dll-and-how-hackers-abuse-it/)
-- [Windows Can Hide Files Inside Other Files: NTFS Alternate Data Streams &lpar;ADS&rpar; Explained](https://spyboy.blog/2026/09/26/windows-can-hide-files-inside-other-files-ntfs-alternate-data-streams-ads-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
