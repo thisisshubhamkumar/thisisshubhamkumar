@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Antivirus Software for Ethical Hackers, Cybersecurity Professionals &amp; Power Users in 2026](https://spyboy.blog/2026/10/05/best-antivirus-software-for-ethical-hackers-cybersecurity-professionals-power-users-in-2026/)
 - [Best Laptops for Ethical Hacking, Kali Linux &amp; Cybersecurity in 2026](https://spyboy.blog/2026/10/04/best-laptops-for-ethical-hacking-kali-linux-cybersecurity-in-2026/)
 - [Best VPNs for Ethical Hackers, Bug Bounty Hunters &amp; Cybersecurity Professionals in 2026](https://spyboy.blog/2026/10/03/best-vpns-for-ethical-hackers-bug-bounty-hunters-cybersecurity-professionals-in-2026/)
 - [Windows LOLBins Explained: How Legitimate System Tools Can Become an Attack Surface](https://spyboy.blog/2026/10/02/windows-lolbins-explained-how-legitimate-system-tools-can-become-an-attack-surface/)
 - [PowerShell Constrained Language Mode Explained: How Windows Can Restrict What PowerShell Is Allowed to Do](https://spyboy.blog/2026/10/01/powershell-constrained-language-mode-explained-how-windows-can-restrict-what-powershell-is-allowed-to-do/)
-- [Windows Services Explained: How Attackers Abuse Background Services for Persistence and Privilege](https://spyboy.blog/2026/09/30/windows-services-explained-how-attackers-abuse-background-services-for-persistence-and-privilege/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
