@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Mini PCs for Cybersecurity Home Labs, Kali Linux, Proxmox &amp; Ethical Hacking in 2026](https://spyboy.blog/2026/10/15/best-mini-pcs-for-cybersecurity-home-labs-kali-linux-proxmox-ethical-hacking-in-2026/)
 - [Best External SSDs for Kali Linux, Cybersecurity Labs &amp; Ethical Hacking in 2026](https://spyboy.blog/2026/10/14/best-external-ssds-for-kali-linux-cybersecurity-labs-ethical-hacking-in-2026/)
 - [Best NAS Devices for Cybersecurity Home Labs, Backups &amp; Self-Hosting in 2026](https://spyboy.blog/2026/10/13/best-nas-devices-for-cybersecurity-home-labs-backups-self-hosting-in-2026/)
 - [Best Monitors for Cybersecurity, Ethical Hacking &amp; Programming in 2026](https://spyboy.blog/2026/10/12/best-monitors-for-cybersecurity-ethical-hacking-programming-in-2026/)
 - [Best Hardware Security Keys for Hackers, Developers &amp; Privacy in 2026](https://spyboy.blog/2026/10/11/best-hardware-security-keys-for-hackers-developers-privacy-in-2026/)
-- [Best Browsers for Privacy, OSINT &amp; Ethical Hacking in 2026](https://spyboy.blog/2026/10/10/best-browsers-for-privacy-osint-ethical-hacking-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
