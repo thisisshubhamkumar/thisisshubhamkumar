@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Account Hacked? How to Recover It, Secure Your Profile, and Stop Scammers &lpar;2026&rpar;](https://spyboy.blog/2026/10/18/facebook-account-hacked-how-to-recover-it-secure-your-profile-and-stop-scammers-2026/)
 - [Roblox Account Hacked? How to Recover It, Secure Your Account, and Protect Your Robux &lpar;2026&rpar;](https://spyboy.blog/2026/10/17/roblox-account-hacked-how-to-recover-it-secure-your-account-and-protect-your-robux-2026/)
 - [Best Network Switches &amp; Firewall Appliances for Cybersecurity Home Labs in 2026](https://spyboy.blog/2026/10/16/best-network-switches-firewall-appliances-for-cybersecurity-home-labs-in-2026/)
 - [Best Mini PCs for Cybersecurity Home Labs, Kali Linux, Proxmox &amp; Ethical Hacking in 2026](https://spyboy.blog/2026/10/15/best-mini-pcs-for-cybersecurity-home-labs-kali-linux-proxmox-ethical-hacking-in-2026/)
 - [Best External SSDs for Kali Linux, Cybersecurity Labs &amp; Ethical Hacking in 2026](https://spyboy.blog/2026/10/14/best-external-ssds-for-kali-linux-cybersecurity-labs-ethical-hacking-in-2026/)
-- [Best NAS Devices for Cybersecurity Home Labs, Backups &amp; Self-Hosting in 2026](https://spyboy.blog/2026/10/13/best-nas-devices-for-cybersecurity-home-labs-backups-self-hosting-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
