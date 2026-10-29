@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Recover a Hacked WhatsApp Account in 2026: Step-by-Step Guide](https://spyboy.blog/2026/10/29/how-to-recover-a-hacked-whatsapp-account-in-2026-step-by-step-guide/)
 - [How to Remove a Virus From an Android Phone &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/10/28/how-to-remove-a-virus-from-an-android-phone-2026-guide/)
 - [How to Check If Your Password Has Been Leaked Online &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/10/27/how-to-check-if-your-password-has-been-leaked-online-2026-guide/)
 - [Why Malaysia Is Writing a Cybercrime Bill: A Plain-English Guide to the Scam Surge](https://spyboy.blog/2026/10/26/why-malaysia-is-writing-a-cybercrime-bill-a-plain-english-guide-to-the-scam-surge/)
 - [Phone Stolen? How to Track, Lock, and Secure Your Phone Remotely &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/10/26/phone-stolen-how-to-track-lock-and-secure-your-phone-remotely-2026-guide/)
-- [How to Tell If a Website Is Fake or a Scam: 12 Warning Signs &lpar;2026&rpar;](https://spyboy.blog/2026/10/25/how-to-tell-if-a-website-is-fake-or-a-scam-12-warning-signs-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
