@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hand Me Your Phone for 10 Seconds… and I Could Hijack Your Calls &lpar;Call Forwarding Scam Explained&rpar;](https://spyboy.blog/2026/11/04/hand-me-your-phone-for-10-seconds-and-i-could-hijack-your-calls-call-forwarding-scam-explained/)
 - [Build Your Own Hacking Lab at Home for Free &lpar;Kali Linux, VirtualBox and Real Practice&rpar;](https://spyboy.blog/2026/11/03/build-your-own-hacking-lab-at-home-for-free-kali-linux-virtualbox-and-real-practice/)
 - [Make Your Android TV Faster by Removing Bloatware and Ads: The CleanYourTV Guide](https://spyboy.blog/2026/11/02/make-your-android-tv-faster-by-removing-bloatware-and-ads-the-cleanyourtv-guide/)
 - [PowerShell for Hacking: 15 Commands Every Cybersecurity Beginner Should Know](https://spyboy.blog/2026/11/01/powershell-for-hacking-15-commands-every-cybersecurity-beginner-should-know/)
 - [Fake Online Job Scams in 2026: 12 Warning Signs and How to Protect Yourself](https://spyboy.blog/2026/10/31/fake-online-job-scams-in-2026-12-warning-signs-and-how-to-protect-yourself/)
-- [SIM Swap Scam: How Hackers Can Steal Your Phone Number and How to Stop Them &lpar;2026&rpar;](https://spyboy.blog/2026/10/30/sim-swap-scam-how-hackers-can-steal-your-phone-number-and-how-to-stop-them-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
