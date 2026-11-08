@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Someone Spy on Your Phone Without Installing Anything? The Truth Revealed](https://spyboy.blog/2026/11/08/can-someone-spy-on-your-phone-without-installing-anything-the-truth-revealed/)
 - [Can Someone Hack Your Phone Through Bluetooth? 9 Bluetooth Security Risks You Should Know](https://spyboy.blog/2026/11/07/can-someone-hack-your-phone-through-bluetooth-9-bluetooth-security-risks-you-should-know/)
 - [Can Scanning a QR Code Hack Your Phone? 10 QR Code Scams You Should Know About](https://spyboy.blog/2026/11/06/can-scanning-a-qr-code-hack-your-phone-10-qr-code-scams-you-should-know-about/)
 - [How Malicious APKs Exploit Android Permissions to Compromise Your Phone](https://spyboy.blog/2026/11/05/how-malicious-apks-exploit-android-permissions-to-compromise-your-phone/)
 - [Hand Me Your Phone for 10 Seconds… and I Could Hijack Your Calls &lpar;Call Forwarding Scam Explained&rpar;](https://spyboy.blog/2026/11/04/hand-me-your-phone-for-10-seconds-and-i-could-hijack-your-calls-call-forwarding-scam-explained/)
-- [Build Your Own Hacking Lab at Home for Free &lpar;Kali Linux, VirtualBox and Real Practice&rpar;](https://spyboy.blog/2026/11/03/build-your-own-hacking-lab-at-home-for-free-kali-linux-virtualbox-and-real-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
