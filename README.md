@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Wi-Fi Printer Could Be a Security Risk — What Hackers Can Do With Network Printers](https://spyboy.blog/2026/11/11/your-wi-fi-printer-could-be-a-security-risk-what-hackers-can-do-with-network-printers/)
+- [Your Browser Can Identify You Even After You Clear Cookies: How Browser Fingerprinting Works &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/11/10/your-browser-can-identify-you-even-after-you-clear-cookies-how-browser-fingerprinting-works-2026-guide/)
 - [Your Photos May Reveal Your Location: How Hackers Use EXIF Metadata to Track You &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/11/09/your-photos-may-reveal-your-location-how-hackers-use-exif-metadata-to-track-you-2026-guide/)
 - [Can Someone Spy on Your Phone Without Installing Anything? The Truth Revealed](https://spyboy.blog/2026/11/08/can-someone-spy-on-your-phone-without-installing-anything-the-truth-revealed/)
 - [Can Someone Hack Your Phone Through Bluetooth? 9 Bluetooth Security Risks You Should Know](https://spyboy.blog/2026/11/07/can-someone-hack-your-phone-through-bluetooth-9-bluetooth-security-risks-you-should-know/)
-- [Can Scanning a QR Code Hack Your Phone? 10 QR Code Scams You Should Know About](https://spyboy.blog/2026/11/06/can-scanning-a-qr-code-hack-your-phone-10-qr-code-scams-you-should-know-about/)
-- [How Malicious APKs Exploit Android Permissions to Compromise Your Phone](https://spyboy.blog/2026/11/05/how-malicious-apks-exploit-android-permissions-to-compromise-your-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
