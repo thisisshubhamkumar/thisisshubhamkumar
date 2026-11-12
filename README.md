@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkeys vs Passwords: Can Hackers Still Steal Your Accounts?](https://spyboy.blog/2026/11/13/passkeys-vs-passwords-can-hackers-still-steal-your-accounts/)
 - [Never Plug In a USB Drive You Find — It Could Hack Your Computer](https://spyboy.blog/2026/11/12/never-plug-in-a-usb-drive-you-find-it-could-hack-your-computer/)
 - [Your Wi-Fi Printer Could Be a Security Risk — What Hackers Can Do With Network Printers](https://spyboy.blog/2026/11/11/your-wi-fi-printer-could-be-a-security-risk-what-hackers-can-do-with-network-printers/)
 - [Your Browser Can Identify You Even After You Clear Cookies: How Browser Fingerprinting Works &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/11/10/your-browser-can-identify-you-even-after-you-clear-cookies-how-browser-fingerprinting-works-2026-guide/)
 - [Your Photos May Reveal Your Location: How Hackers Use EXIF Metadata to Track You &lpar;2026 Guide&rpar;](https://spyboy.blog/2026/11/09/your-photos-may-reveal-your-location-how-hackers-use-exif-metadata-to-track-you-2026-guide/)
-- [Can Someone Spy on Your Phone Without Installing Anything? The Truth Revealed](https://spyboy.blog/2026/11/08/can-someone-spy-on-your-phone-without-installing-anything-the-truth-revealed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
