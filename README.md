@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You Clicked “Allow Notifications” on a Random Website. Now Fake Virus Alerts Won’t Stop.](https://spyboy.blog/2026/11/17/you-clicked-allow-notifications-on-a-random-website-now-fake-virus-alerts-wont-stop/)
 - [That Dream Job Interview Could Be a Malware Trap: How Fake Recruiters Hack Developers](https://spyboy.blog/2026/11/16/that-dream-job-interview-could-be-a-malware-trap-how-fake-recruiters-hack-developers/)
 - [Someone Says They’re Microsoft Support and Wants to Control Your PC? Here’s How They Hack You](https://spyboy.blog/2026/11/15/someone-says-theyre-microsoft-support-and-wants-to-control-your-pc-heres-how-they-hack-you/)
 - [You Copy a Crypto Wallet Address. Malware Secretly Replaces It. Here’s How Clipboard Hijacking Works](https://spyboy.blog/2026/11/14/you-copy-a-crypto-wallet-address-malware-secretly-replaces-it-heres-how-clipboard-hijacking-works/)
 - [Passkeys vs Passwords: Can Hackers Still Steal Your Accounts?](https://spyboy.blog/2026/11/13/passkeys-vs-passwords-can-hackers-still-steal-your-accounts/)
-- [Never Plug In a USB Drive You Find — It Could Hack Your Computer](https://spyboy.blog/2026/11/12/never-plug-in-a-usb-drive-you-find-it-could-hack-your-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
