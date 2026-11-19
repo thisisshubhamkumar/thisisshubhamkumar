@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VantagePoint Black Friday 2026: Get 70% OFF Hacking Labs and Professional Certifications](https://spyboy.blog/2026/11/19/vantagepoint-black-friday-2026-get-70-off-hacking-labs-and-professional-certifications/)
 - [That Voice Sounds Exactly Like Your Family. But It Might Be an AI Scam.](https://spyboy.blog/2026/11/18/that-voice-sounds-exactly-like-your-family-but-it-might-be-an-ai-scam/)
 - [You Clicked “Allow Notifications” on a Random Website. Now Fake Virus Alerts Won’t Stop.](https://spyboy.blog/2026/11/17/you-clicked-allow-notifications-on-a-random-website-now-fake-virus-alerts-wont-stop/)
 - [That Dream Job Interview Could Be a Malware Trap: How Fake Recruiters Hack Developers](https://spyboy.blog/2026/11/16/that-dream-job-interview-could-be-a-malware-trap-how-fake-recruiters-hack-developers/)
 - [Someone Says They’re Microsoft Support and Wants to Control Your PC? Here’s How They Hack You](https://spyboy.blog/2026/11/15/someone-says-theyre-microsoft-support-and-wants-to-control-your-pc-heres-how-they-hack-you/)
-- [You Copy a Crypto Wallet Address. Malware Secretly Replaces It. Here’s How Clipboard Hijacking Works](https://spyboy.blog/2026/11/14/you-copy-a-crypto-wallet-address-malware-secretly-replaces-it-heres-how-clipboard-hijacking-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
