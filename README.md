@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Create a Harmless PC Virus for Fun — And Discover What Real Malware Could Do](https://spyboy.blog/2026/11/24/lets-create-a-harmless-pc-virus-for-fun-and-discover-what-real-malware-could-do/)
+- [Someone Could Be Watching Your Phone or PC Screen Right Now — How Hackers Spy on Everything You Do](https://spyboy.blog/2026/11/23/someone-could-be-watching-your-phone-or-pc-screen-right-now-how-hackers-spy-on-everything-you-do/)
 - [We Need Smartphones We Can Actually Control: Bring Back Removable Batteries, Physical Privacy Switches and Repairable Phones!](https://spyboy.blog/2026/11/22/we-need-smartphones-we-can-actually-control-bring-back-removable-batteries-physical-privacy-switches-and-repairable-phones/)
 - [How to Convert OST to PST When Exchange Server Is Not Connected](https://spyboy.blog/2026/11/21/convert-ost-to-pst-exchange-not-connected/)
 - [“I Know You Opened My Email. I Even Know Your IP Address and Location.” — The Invisible Email Tracking Trick Explained](https://spyboy.blog/2026/11/21/i-know-you-opened-my-email-i-even-know-your-ip-address-and-location-the-invisible-email-tracking-trick-explained/)
-- [I Wrote Malware to Test My Hacking Skills… Then It Took Over My Own PC and Locked Me Out](https://spyboy.blog/2026/11/20/i-wrote-malware-to-test-my-hacking-skills-then-it-took-over-my-own-pc-and-locked-me-out/)
-- [VantagePoint Black Friday 2026: Get 70% OFF Hacking Labs and Professional Certifications](https://spyboy.blog/2026/11/19/vantagepoint-black-friday-2026-get-70-off-hacking-labs-and-professional-certifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
