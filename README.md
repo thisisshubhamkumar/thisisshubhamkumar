@@ -81,11 +81,11 @@ The bot comes with OSINT tools and commands that can assist people in various wa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Windows PC Could Be Remembering Everything You Do — What Is Windows Recall?](https://spyboy.blog/2026/11/28/your-windows-pc-could-be-remembering-everything-you-do-what-is-windows-recall/)
 - [How Easy Is It to Hack a Government Website? What Hackers Look for First — and Why You Might Never Know Your Data Was Stolen](https://spyboy.blog/2026/11/27/how-easy-is-it-to-hack-a-government-website-what-hackers-look-for-first-and-why-you-might-never-know-your-data-was-stolen/)
 - [You Found a USB Drive in a Parking Lot. Could It Hack an Entire Company?](https://spyboy.blog/2026/11/26/you-found-a-usb-drive-in-a-parking-lot-could-it-hack-an-entire-company/)
 - [TikTok, China and the New Frontline of Cyber Warfare: Should Countries Ban the Platform?](https://spyboy.blog/2026/11/25/tiktok-china-and-the-new-frontline-of-cyber-warfare-should-countries-ban-the-platform/)
 - [How OSINT Investigators Can Expose Fake Locations in Viral Videos &lpar;The Dhaka vs New Delhi Case&rpar;](https://spyboy.blog/2026/11/24/how-osint-investigators-can-expose-fake-locations-in-viral-videos-the-dhaka-vs-new-delhi-case/)
-- [Let’s Create a Harmless PC Virus for Fun — And Discover What Real Malware Could Do](https://spyboy.blog/2026/11/24/lets-create-a-harmless-pc-virus-for-fun-and-discover-what-real-malware-could-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
